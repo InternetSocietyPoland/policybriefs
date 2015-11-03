@@ -1,0 +1,26 @@
+/<!DOCTYPE html>/p
+/^ */s/^ *//
+/ *$/s/ *$//
+/date-display-single/s,^.*<span class="date-display-single">\([^<]*\)</span>.*$,<p><strong>Date:</strong> <span class="date">\1</span></p>,p
+/class/s/ *class="[^"]*" *//g
+s/<div>//g
+s/<\/div>//g
+/<html.*/p
+/<head>/p
+s/…/.../g
+s/ / /g
+s/–/-/g
+s/—/\&mdash;/g
+s/“/\&ldquo;/g
+s/”/\&rdquo;/g
+s/‘/\&lsquo;/g
+s/’/\&rsquo;/g
+/link rel="canonical"/s,href="/,href="http://www.internetsociety/,p
+/link rel="shortlink"/s,href="/,href="http://www.internetsociety/,p
+/<title>/s/^ *//p
+/<\/head>/p
+/<body>/p
+/^ *$/d
+/<article.*/,/<\/article>/p
+$a\
+</body></html>

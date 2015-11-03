@@ -1,324 +1,30 @@
-
 <!DOCTYPE html>
-
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
-
 <head>
-
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<link rel="shortcut icon" href="http://www.internetsociety.org/sites/all/themes/isoc/favicon.ico" type="image/vnd.microsoft.icon" />
-<link rel="shortlink" href="/node/475147" />
-<link rel="canonical" href="/policybriefs/humanrights" />
-<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
-
-  <title>Policy Brief: Human Rights | Internet Society</title>
-
-  <style type="text/css" media="all">
-@import url("http://www.internetsociety.org/modules/system/system.base.css?nwxq40");
-@import url("http://www.internetsociety.org/modules/system/system.menus.css?nwxq40");
-@import url("http://www.internetsociety.org/modules/system/system.messages.css?nwxq40");
-@import url("http://www.internetsociety.org/modules/system/system.theme.css?nwxq40");
-</style>
-<style type="text/css" media="all">
-@import url("http://www.internetsociety.org/sites/all/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.core.min.css?nwxq40");
-@import url("http://www.internetsociety.org/sites/all/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.theme.min.css?nwxq40");
-@import url("http://www.internetsociety.org/sites/all/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.menu.min.css?nwxq40");
-@import url("http://www.internetsociety.org/sites/all/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.autocomplete.min.css?nwxq40");
-@import url("http://www.internetsociety.org/sites/all/libraries/mediaelement/build/mediaelementplayer.min.css?nwxq40");
-</style>
-<style type="text/css" media="all">
-@import url("http://www.internetsociety.org/sites/all/modules/contrib/comment_notify/comment_notify.css?nwxq40");
-@import url("http://www.internetsociety.org/modules/aggregator/aggregator.css?nwxq40");
-@import url("http://www.internetsociety.org/modules/comment/comment.css?nwxq40");
-@import url("http://www.internetsociety.org/sites/all/modules/contrib/date/date_api/date.css?nwxq40");
-@import url("http://www.internetsociety.org/sites/all/modules/contrib/date/date_popup/themes/datepicker.1.7.css?nwxq40");
-@import url("http://www.internetsociety.org/sites/all/modules/contrib/date/date_repeat_field/date_repeat_field.css?nwxq40");
-@import url("http://www.internetsociety.org/modules/field/theme/field.css?nwxq40");
-@import url("http://www.internetsociety.org/sites/all/modules/contrib/mollom/mollom.css?nwxq40");
-@import url("http://www.internetsociety.org/modules/node/node.css?nwxq40");
-@import url("http://www.internetsociety.org/modules/search/search.css?nwxq40");
-@import url("http://www.internetsociety.org/modules/user/user.css?nwxq40");
-@import url("http://www.internetsociety.org/sites/all/modules/contrib/views/css/views.css?nwxq40");
-</style>
-<style type="text/css" media="all">
-@import url("http://www.internetsociety.org/sites/all/modules/contrib/ctools/css/ctools.css?nwxq40");
-@import url("http://www.internetsociety.org/sites/all/modules/custom/editorial_calendar/editorial_calendar.css?nwxq40");
-@import url("http://www.internetsociety.org/sites/all/modules/contrib/lightbox2/css/lightbox.css?nwxq40");
-@import url("http://www.internetsociety.org/sites/all/modules/contrib/rate/rate.css?nwxq40");
-@import url("http://www.internetsociety.org/sites/all/modules/contrib/shorten/shortener/shortener.css?nwxq40");
-@import url("http://www.internetsociety.org/sites/all/modules/contrib/tagclouds/tagclouds.css?nwxq40");
-@import url("http://www.internetsociety.org/sites/all/modules/contrib/views_slideshow_xtra/views_slideshow_xtra.css?nwxq40");
-@import url("http://www.internetsociety.org/modules/locale/locale.css?nwxq40");
-</style>
-<style type="text/css" media="all">
-@import url("http://www.internetsociety.org/sites/all/themes/isoc/css/html-reset.css?nwxq40");
-@import url("http://www.internetsociety.org/sites/all/themes/isoc/css/master.css?nwxq40");
-@import url("http://www.internetsociety.org/sites/all/themes/isoc/css/isoc_ie.css?nwxq40");
-</style>
-<style type="text/css" media="print">
-@import url("http://www.internetsociety.org/sites/all/themes/isoc/css/print.css?nwxq40");
-</style>
-<style type="text/css" media="screen and (min-width: 760px) and (max-width: 959px)">
-@import url("http://www.internetsociety.org/sites/all/themes/isoc/css/medium.css?nwxq40");
-</style>
-<style type="text/css" media="screen and (min-width: 0px) and (max-width: 759px)">
-@import url("http://www.internetsociety.org/sites/all/themes/isoc/css/small.css?nwxq40");
-</style>
-
-  <script type="text/javascript" src="http://www.internetsociety.org/sites/all/modules/contrib/jquery_update/replace/jquery/1.7/jquery.min.js?v=1.7.2"></script>
-<script type="text/javascript" src="http://www.internetsociety.org/misc/jquery.once.js?v=1.2"></script>
-<script type="text/javascript" src="http://www.internetsociety.org/misc/drupal.js?nwxq40"></script>
-<script type="text/javascript" src="http://www.internetsociety.org/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.core.min.js?v=1.10.2"></script>
-<script type="text/javascript" src="http://www.internetsociety.org/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.widget.min.js?v=1.10.2"></script>
-<script type="text/javascript" src="http://www.internetsociety.org/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.mouse.min.js?v=1.10.2"></script>
-<script type="text/javascript" src="http://www.internetsociety.org/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.draggable.min.js?v=1.10.2"></script>
-<script type="text/javascript" src="http://www.internetsociety.org/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.position.min.js?v=1.10.2"></script>
-<script type="text/javascript" src="http://www.internetsociety.org/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.menu.min.js?v=1.10.2"></script>
-<script type="text/javascript" src="http://www.internetsociety.org/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.autocomplete.min.js?v=1.10.2"></script>
-<script type="text/javascript" src="http://www.internetsociety.org/sites/all/libraries/mediaelement/build/mediaelement-and-player.min.js?v=2.1.6"></script>
-<script type="text/javascript" src="http://www.internetsociety.org/sites/all/modules/contrib/jquery_update/replace/ui/external/jquery.cookie.js?v=67fb34f6a866c40d0570"></script>
-<script type="text/javascript" src="http://www.internetsociety.org/sites/all/modules/contrib/jquery_update/replace/misc/jquery.form.min.js?v=2.69"></script>
-<script type="text/javascript" src="http://www.internetsociety.org/misc/ajax.js?v=7.41"></script>
-<script type="text/javascript" src="http://www.internetsociety.org/sites/all/modules/contrib/jquery_update/js/jquery_update.js?v=0.0.1"></script>
-<script type="text/javascript" src="http://www.internetsociety.org/sites/all/modules/contrib/comment_notify/comment_notify.js?nwxq40"></script>
-<script type="text/javascript" src="http://www.internetsociety.org/sites/all/modules/contrib/gss/scripts/autocomplete.js?nwxq40"></script>
-<script type="text/javascript" src="http://www.internetsociety.org/misc/progress.js?v=7.41"></script>
-<script type="text/javascript" src="http://www.internetsociety.org/sites/all/modules/contrib/lightbox2/js/lightbox.js?nwxq40"></script>
-<script type="text/javascript" src="http://www.internetsociety.org/sites/all/modules/contrib/mediaelement/mediaelement.js?nwxq40"></script>
-<script type="text/javascript" src="http://www.internetsociety.org/sites/all/modules/contrib/shorten/shortener/shortener.js?nwxq40"></script>
-<script type="text/javascript" src="http://www.internetsociety.org/sites/all/modules/contrib/views_slideshow_xtra/views_slideshow_xtra.js?nwxq40"></script>
-<script type="text/javascript" src="http://www.internetsociety.org/sites/all/modules/contrib/views/js/base.js?nwxq40"></script>
-<script type="text/javascript" src="http://www.internetsociety.org/sites/all/modules/contrib/views/js/ajax_view.js?nwxq40"></script>
-<script type="text/javascript" src="http://www.internetsociety.org/sites/all/modules/contrib/google_analytics/googleanalytics.js?nwxq40"></script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1978561-7", {"cookieDomain":"auto"});ga("send", "pageview");
-//--><!]]>
-</script>
-<script type="text/javascript" src="http://use.typekit.com/rnx8nlh.js"></script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-try{Typekit.load();}catch(e){}
-//--><!]]>
-</script>
-<script type="text/javascript" src="http://www.internetsociety.org/sites/all/themes/isoc/js/dropdown.js?nwxq40"></script>
-<script type="text/javascript" src="http://www.internetsociety.org/sites/all/themes/isoc/js/Drupal.behaviors.navigationAccessKeys.js?nwxq40"></script>
-<script type="text/javascript" src="http://www.internetsociety.org/sites/all/themes/isoc/js/operatabs.js?nwxq40"></script>
-<script type="text/javascript" src="http://www.internetsociety.org/sites/all/themes/isoc/js/selectnav.min.js?nwxq40"></script>
-<script type="text/javascript" src="http://www.internetsociety.org/sites/all/themes/isoc/js/scripts.js?nwxq40"></script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"isoc","theme_token":"eACDsSHnA2DESeeaVwk7xiul4Ve0q_2duu_68dJtPog","jquery_version":"1.7","js":{"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.mouse.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.draggable.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.position.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.menu.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.autocomplete.min.js":1,"sites\/all\/libraries\/mediaelement\/build\/mediaelement-and-player.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/misc\/jquery.form.min.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/contrib\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/modules\/contrib\/comment_notify\/comment_notify.js":1,"sites\/all\/modules\/contrib\/gss\/scripts\/autocomplete.js":1,"misc\/progress.js":1,"sites\/all\/modules\/contrib\/lightbox2\/js\/lightbox.js":1,"sites\/all\/modules\/contrib\/mediaelement\/mediaelement.js":1,"sites\/all\/modules\/contrib\/shorten\/shortener\/shortener.js":1,"sites\/all\/modules\/contrib\/views_slideshow_xtra\/views_slideshow_xtra.js":1,"sites\/all\/modules\/contrib\/views\/js\/base.js":1,"sites\/all\/modules\/contrib\/views\/js\/ajax_view.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1,"http:\/\/use.typekit.com\/rnx8nlh.js":1,"1":1,"sites\/all\/themes\/isoc\/js\/dropdown.js":1,"sites\/all\/themes\/isoc\/js\/Drupal.behaviors.navigationAccessKeys.js":1,"sites\/all\/themes\/isoc\/js\/operatabs.js":1,"sites\/all\/themes\/isoc\/js\/selectnav.min.js":1,"sites\/all\/themes\/isoc\/js\/scripts.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.menu.css":1,"misc\/ui\/jquery.ui.autocomplete.css":1,"sites\/all\/libraries\/mediaelement\/build\/mediaelementplayer.min.css":1,"sites\/all\/modules\/contrib\/comment_notify\/comment_notify.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/contrib\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/custom\/editorial_calendar\/editorial_calendar.css":1,"sites\/all\/modules\/contrib\/lightbox2\/css\/lightbox.css":1,"sites\/all\/modules\/contrib\/rate\/rate.css":1,"sites\/all\/modules\/contrib\/shorten\/shortener\/shortener.css":1,"sites\/all\/modules\/contrib\/tagclouds\/tagclouds.css":1,"sites\/all\/modules\/contrib\/views_slideshow_xtra\/views_slideshow_xtra.css":1,"modules\/locale\/locale.css":1,"sites\/all\/themes\/isoc\/css\/html-reset.css":1,"sites\/all\/themes\/isoc\/css\/master.css":1,"sites\/all\/themes\/isoc\/css\/isoc_ie.css":1,"sites\/all\/themes\/isoc\/css\/print.css":1,"sites\/all\/themes\/isoc\/css\/medium.css":1,"sites\/all\/themes\/isoc\/css\/small.css":1}},"gss":{"key":"015267653312545538371:dihpk_sjx-e"},"lightbox2":{"rtl":"0","file_path":"\/(\\w\\w\/)public:\/","default_image":"\/sites\/all\/modules\/contrib\/lightbox2\/images\/brokenimage.jpg","border_size":10,"font_color":"000","box_color":"fff","top_position":"","overlay_opacity":"0.8","overlay_color":"000","disable_close_click":true,"resize_sequence":0,"resize_speed":400,"fade_in_speed":400,"slide_down_speed":600,"use_alt_layout":false,"disable_resize":false,"disable_zoom":false,"force_show_nav":false,"show_caption":true,"loop_items":false,"node_link_text":"View Image Details","node_link_target":false,"image_count":"Image !current of !total","video_count":"Video !current of !total","page_count":"Page !current of !total","lite_press_x_close":"press \u003Ca href=\u0022#\u0022 onclick=\u0022hideLightbox(); return FALSE;\u0022\u003E\u003Ckbd\u003Ex\u003C\/kbd\u003E\u003C\/a\u003E to close","download_link_text":"","enable_login":false,"enable_contact":false,"keys_close":"c x 27","keys_previous":"p 37","keys_next":"n 39","keys_zoom":"z","keys_play_pause":"32","display_image_size":"original","image_node_sizes":"()","trigger_lightbox_classes":"","trigger_lightbox_group_classes":"","trigger_slideshow_classes":"","trigger_lightframe_classes":"","trigger_lightframe_group_classes":"","custom_class_handler":0,"custom_trigger_classes":"","disable_for_gallery_lists":true,"disable_for_acidfree_gallery_lists":true,"enable_acidfree_videos":true,"slideshow_interval":5000,"slideshow_automatic_start":true,"slideshow_automatic_exit":true,"show_play_pause":true,"pause_on_next_click":false,"pause_on_previous_click":true,"loop_slides":false,"iframe_width":600,"iframe_height":400,"iframe_border":1,"enable_video":false},"mediaelementAll":true,"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:763c054a30d111faf7c2787122aba0f9":{"view_name":"issues","view_display_id":"block_5","view_args":"1175\/475147","view_path":"node\/475147","view_base_path":null,"view_dom_id":"763c054a30d111faf7c2787122aba0f9","pager_element":0}}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/policybriefs\/humanrights":true}});
-//--><!]]>
-</script>
-
-<!--<link rel="stylesheet" href="/sites/all/themes/isoc/css/handheld.css" media="handheld"/>-->
-<!--[if IE]><script src="/sites/all/themes/isoc/js/html5.js"></script><![endif]-->
-<!--[if (gte IE 6)&(lte IE 8)]>
-  <script type="text/javascript" src="/sites/all/themes/isoc/js/selectivizr-1.0.2/selectivizr-min.js"></script>
-  <link rel="stylesheet" href="/sites/all/themes/isoc/css/ie.css" />
-<![endif]-->
+<link rel="shortlink" href="http://www.internetsociety/node/475147" />
+<link rel="canonical" href="http://www.internetsociety/policybriefs/humanrights" />
+<title>Policy Brief: Human Rights | Internet Society</title>
 </head>
-
-<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-475147 node-type-document i18n-en" >
-
- <div id="skip-link">
-
-	<a href="#nav" class="element-invisible element-focusable">Jump to Navigation</a>
-
-	<a href="#columns" class="element-invisible element-focusable">Jump to Content</a>
-
-	<a href="/sitemap" class="element-invisible element-focusable">Jump to Site Map</a>
-
- </div>
-
-  
-  <div id="headerutility">  <div class="region region-headerutility">
-    <div id="block-locale-language" class="block block-locale simple-white">
-
-    
-  <div class="content">
-    <ul class="language-switcher-locale-url"><li class="ar first"><span class="language-link locale-untranslated" xml:lang="ar" lang="ar">العربية</span></li>
-<li class="zh-hans"><span class="language-link locale-untranslated" xml:lang="zh-hans" lang="zh-hans">简体中文</span></li>
-<li class="en active"><a href="/policybriefs/humanrights" class="language-link active" xml:lang="en" lang="en">English</a></li>
-<li class="fr"><span class="language-link locale-untranslated" xml:lang="fr" lang="fr">Français</span></li>
-<li class="ru"><span class="language-link locale-untranslated" xml:lang="ru" lang="ru">Русский</span></li>
-<li class="es"><span class="language-link locale-untranslated" xml:lang="es" lang="es">Español</span></li>
-<li class="ur last"><span class="language-link locale-untranslated" xml:lang="ur" lang="ur">اردو</span></li>
-</ul>  </div>
-</div>
-<div id="block-menu-menu-header-menu" class="block block-menu">
-
-    
-  <div class="content">
-    <ul class="menu"><li class="first leaf"><a href="/" title="">Home</a></li>
-<li class="leaf"><a href="http://connect.internetsociety.org?utm_source=Top%20link&amp;utm_medium=site&amp;utm_campaign=Main%20website%20top%20link" title="">Connect Login</a></li>
-<li class="leaf"><a href="http://www.internetsociety.org/get-involved" title="">Become a Member</a></li>
-<li class="leaf"><a href="/find-chapter" title="Find a Chapter">Find a Chapter</a></li>
-<li class="leaf"><a href="/blog">Blog</a></li>
-<li class="last leaf"><a href="/news" title="">News</a></li>
-</ul>  </div>
-</div>
-  </div>
-<div class="clear"></div></div> <!-- header utility -->	
-<header id="header">
-    <div class="region region-header">
-    <div id="block-search-form" class="block block-search" role="search">
-
-    
-  <div class="content">
-    <form class="gss" action="/policybriefs/humanrights" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
-      <h2 class="element-invisible">Search form</h2>
-    <div class="form-item form-type-textfield form-item-search-block-form">
-  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
- <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
-</div>
-<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-JExV6V09yASsGBCjztA-NS64LdQzoZJJLBHZZApBWGI" />
-<input type="hidden" name="form_id" value="search_block_form" />
-</div>
-</div></form>  </div>
-</div>
-  </div>
-  <h1>  <a href="/" title="Internet Society - Go to Home Page">
-  <img src="http://www.internetsociety.org/sites/default/files/logo-new.png" class="logo" alt="Go to ISOC Home" >
-  </a><span class="offscreen">Internet Society</span></h1>
-  <div class="clear"></div>
-</header> <!-- #header -->
-<nav id="nav" title="Internet Society Site Navigation"><h2 class="offscreen">Internet Society Site Navigation</h2><div class="smallmenu"><a href="#">MENU +</a></div>  <div class="region region-navigation">
-    <div id="block-system-main-menu" class="block block-system block-menu">
-
-    
-  <div class="content">
-    <ul class="menu"><li class="first expanded"><a href="/who-we-are" title="Who We Are">Who We Are</a><ul class="menu"><li class="first collapsed"><a href="/who-we-are/mission" title="Mission">Mission</a></li>
-<li class="leaf"><a href="/who-we-are/what-we-do">What We Do</a></li>
-<li class="leaf"><a href="/history" title="The History of the Internet Society">Our History</a></li>
-<li class="leaf"><a href="/who-we-are/our-global-approach" title="Our Global Approach">Our Global Approach</a></li>
-<li class="leaf"><a href="/who-we-are/regional-bureaus" title="Our Regional Bureaus">Our Regional Bureaus</a></li>
-<li class="leaf"><a href="/who-we-are/our-members" title="Our Members">Our Members</a></li>
-<li class="collapsed"><a href="/who-we-are/chapters">Chapters</a></li>
-<li class="collapsed"><a href="/who-we-are/internet-society-special-interest-groups-sig">Special Interest Groups (SIG)</a></li>
-<li class="collapsed"><a href="/who-we-are/our-community-and-partners" title="Related and Partner Organisations">Our Community and Partners</a></li>
-<li class="collapsed"><a href="/who-we-are/organisation-member-advisory-council-omac" title="Advisory Council">Organisation Member Advisory Council</a></li>
-<li class="collapsed"><a href="/who-we-are/chapters-advisory-council" title="Chapters Advisory Council">Chapters Advisory Council</a></li>
-<li class="collapsed"><a href="/who-we-are/board-trustees" title="">Board of Trustees</a></li>
-<li class="collapsed"><a href="/who-we-are/organization-reports-and-policies" title="Organization Reports &amp; Policies">Organization Reports &amp; Policies</a></li>
-<li class="leaf"><a href="/who-we-are/career-opportunities" title="Career Opportunities">Career Opportunities</a></li>
-<li class="leaf"><a href="/who-we-are/staff-and-advisors" title="Staff and Advisors">Staff and Advisors</a></li>
-<li class="last collapsed"><a href="/who-we-are/contact-us" title="Contact Us">Contact Us</a></li>
-</ul></li>
-<li class="expanded"><a href="/what-we-do" title="What We Do">What We Do</a><ul class="menu"><li class="first leaf"><a href="/what-we-do/why-internet-matters" title="Why It Matters">Why It Matters</a></li>
-<li class="collapsed"><a href="/what-we-do/how-we-work" title="How We Work">How We Work</a></li>
-<li class="collapsed"><a href="/what-we-do/where-we-work" title="Where We Work">Where We Work</a></li>
-<li class="collapsed"><a href="/what-we-do/internet-issues" title="Issues">Issues</a></li>
-<li class="leaf"><a href="http://www.internetsociety.org/deploy360/" title="Deploy360">Deploy360 Programme</a></li>
-<li class="collapsed"><a href="/development" title="Development">Development</a></li>
-<li class="collapsed"><a href="/what-we-do/public-policy">Public Policy</a></li>
-<li class="collapsed"><a href="/what-we-do/internet-technology-matters">Internet Technology Matters</a></li>
-<li class="collapsed"><a href="/what-we-do/inforum-learn-online" title="Online Courses - Inforum">Online Courses - Inforum</a></li>
-<li class="collapsed"><a href="/what-we-do/education-and-leadership-programmes" title="Education and Leadership Programmes">Leadership Programmes</a></li>
-<li class="collapsed"><a href="/what-we-do/grants-awards" title="Grants &amp; Awards">Grants &amp; Awards</a></li>
-<li class="last leaf"><a href="/what-we-do/impacts" title="Impacts">Impacts</a></li>
-</ul></li>
-<li class="expanded"><a href="/internet-events" title="Events">Events</a><ul class="menu"><li class="first collapsed"><a href="/events/afpif" title="African Peering and Interconnection Forum (AfPIF)">AfPIF</a></li>
-<li class="collapsed"><a href="/events/asia-internet-symposium">Asia Internet Symposium</a></li>
-<li class="collapsed"><a href="/events/event-calendar">Events Calendar</a></li>
-<li class="leaf"><a href="/events/ietf-meetings" title="IETF Meetings">IETF Meetings</a></li>
-<li class="collapsed"><a href="/events/inet-conferences" title="INET Conferences">INET Conferences</a></li>
-<li class="leaf"><a href="https://www.internetsociety.org/intercommunity2015/" title="">InterCommunity</a></li>
-<li class="leaf"><a href="http://www.internetsociety.org/igf" title="">Internet Governance Forum</a></li>
-<li class="leaf"><a href="/events/ion-conferences" title="ION">ION</a></li>
-<li class="collapsed"><a href="/events/ndss-symposium" title="NDSS Symposium">NDSS Symposium</a></li>
-<li class="last collapsed"><a href="/events/workshops" title="Workshops">Workshops</a></li>
-</ul></li>
-<li class="expanded"><a href="/publications" title="Publications">Publications</a><ul class="menu"><li class="first leaf"><a href="/who-we-are/organization-reports-and-policies/annual-review" title="">Annual Review</a></li>
-<li class="leaf"><a href="/publications/ietf-journal" title="">IETF Journal</a></li>
-<li class="leaf"><a href="/publications/isp-column">ISP Column</a></li>
-<li class="leaf"><a href="/publications/member-briefings">Member Briefings</a></li>
-<li class="leaf"><a href="/newsletter" title="Monthly Newsletter">Newsletter</a></li>
-<li class="leaf"><a href="/publications/internet-measurement-project">Internet Measurement Project</a></li>
-<li class="leaf"><a href="/publications/global-internet-report">Global Internet Report</a></li>
-<li class="last leaf"><a href="/publications/document-library" title="Document Library">Document Library</a></li>
-</ul></li>
-<li class="expanded"><a href="/internet" title="The Internet">The Internet</a><ul class="menu"><li class="first collapsed"><a href="/internet/what-internet" title="What Is the Internet?">What Is the Internet?</a></li>
-<li class="collapsed"><a href="/internet/how-it-works" title="How it Works">How it Works</a></li>
-<li class="leaf"><a href="/internet/who-makes-it-work" title="Who Makes it Work">Who Makes it Work</a></li>
-<li class="collapsed"><a href="/internet/how-internet-evolving" title="How Is the Internet Evolving?">How Is the Internet Evolving?</a></li>
-<li class="last leaf"><a href="/internet/global-internet-user-survey-2012" title="Global Internet User Survey 2012">Global Internet User Survey</a></li>
-</ul></li>
-<li class="expanded"><a href="/get-involved" title="Get Involved">Get Involved</a><ul class="menu"><li class="first leaf"><a href="/get-involved/attend-event">Attend an Event</a></li>
-<li class="leaf"><a href="/get-involved/join-community" title="Join the Community">Join the Community</a></li>
-<li class="collapsed"><a href="/get-involved/individuals" title="Individuals">Individuals</a></li>
-<li class="collapsed"><a href="/get-involved/join-community/organisations-and-corporations" title="Organisations and Corporations">Organisations and Corporations</a></li>
-<li class="leaf"><a href="/get-involved/volunteer" title="Volunteer ">Volunteer </a></li>
-<li class="last collapsed"><a href="/get-involved/spread-word" title="Spread the Word">Spread the Word</a></li>
-</ul></li>
-<li class="last leaf"><a href="/form/donation" title="Donate">Donate</a></li>
-</ul>  </div>
-</div>
-  </div>
-<div class="clear"></div></nav>
-<!-- #nav -->
-				
-<div id="columns">
-			 	<div class="rescontainer"><section id="copy" role="main"><div class="inner">
-								<h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> » Policy Brief: Human Rights</div>				      												<h1>Policy Brief: Human Rights</h1>      			      			<div class="tabs"></div>      						  <div class="region region-content-above">
-    <div id="block-views-document-viewer-block-5" class="block block-views">
-
-    
-  <div class="content">
-    <div class="view view-document-viewer view-id-document_viewer view-display-id-block_5 view-dom-id-8b079e8912b38abc76c496a5c572f6cc">
-        
-  
-  
-      <div class="view-content">
-        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
-      
-  <span class="views-field views-field-field-image">        <span class="field-content"><a href="http://www.internetsociety.org/sites/default/files/ISOC-PolicyBrief-HumanRights-20151030_0.pdf" class="doc-img"><img src="http://www.internetsociety.org/sites/default/files/styles/library/public/ISOC-PolicyBrief-HumanRights.jpg?itok=uMH4Dpgg" width="120" height="169" alt="ISOC policy brief on human rights" /></a></span>  </span>  
-  <span class="views-field views-field-field-fileupload-1">        <span class="field-content"><a href="http://www.internetsociety.org/sites/default/files/ISOC-PolicyBrief-HumanRights-20151030_0.pdf">
- 
-<span>Download File</span></a></span>  </span>  
-  <span class="views-field views-field-field-date">        <span class="field-content"><br><br><strong>Date:</strong> <span class="date-display-single">30 Oct 2015</span></span>  </span>  
-  <span class="views-field views-field-field-typedoc">        <span class="field-content"><br><strong>Document Type:</strong> Briefing Papers</span>  </span>  
-  <span class="views-field views-field-field-tags">        <span class="field-content"><br><strong>Tags:</strong> <a href="/tags/human-rights">Human Rights</a></span>  </span>  
-  <div class="views-field views-field-nothing-2">        <span class="field-content"><hr></span>  </div>  </div>
-    </div>
-  
-  
-  
-  
-  
-  
-</div>  </div>
-</div>
-  </div>
-      					      	  <div class="region region-content">
-    <div id="block-system-main" class="block block-system">
-
-    
-  <div class="content">
-      <article id="node-475147" class="node node-document clearfix">
-
-      
-  
-  <div class="content clearfix">
-    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><h2>The Internet and Human Rights</h2>
+<body>
+<p><strong>Date:</strong> <span class="date">30 Oct 2015</span></p>
+<article id="node-475147">
+<h2>The Internet and Human Rights</h2>
 <p><em>An Internet Society Public Policy Briefing</em></p>
-<blockquote><p>Internet-related government policy, corporate decisions, and technical-development choices influence the extent to which the Internet supports or challenges fundamental human rights. Championing trust, open Internet principles, and dialog among stakeholders are critical ways to promote the Internet’s role in supporting human rights.</p>
+<blockquote><p>Internet-related government policy, corporate decisions, and technical-development choices influence the extent to which the Internet supports or challenges fundamental human rights. Championing trust, open Internet principles, and dialog among stakeholders are critical ways to promote the Internet&rsquo;s role in supporting human rights.</p>
 </blockquote>
 <h3>Introduction</h3>
 <p>The Internet is a powerful enabler of human rights. As a medium of communication, the freedoms fostered by the Internet to express ideas, connect and associate with others, and exercise our human creativity and innovation are unprecedented. These freedoms are essential elements of personal autonomy, dignity, and basic human rights.</p>
 <p>Internet access is growing steadily across the world, entrenching the Internet in every aspect of our lives. For the more than three billion people who have online access, the Internet directly impacts their ability to access news and information, political speech, religion and culture, markets and trade, and libraries of knowledge. It is important to sustain and grow access as even more people connect online every day, and to do so in a way that supports human rights.</p>
 <p>In this context, as nations embrace the benefits that free and open online access and communications can bring to the lives of their citizens, they still need to protect their citizens from threats and illegal activities that occur online. This is not a simple task. By the very nature of the Internet, there are complex interdependencies that must be evaluated in order to successfully preserve basic human rights while also addressing legitimate public interest concerns.</p>
-<p>The Internet Society believes that trust and the respect of individual freedoms, whether offline or online, are essential building blocks to achieve human, economic, and social development. Ultimately, it is up to all of us—governments, commercial and civil organizations, and citizens—to ensure that the Internet fulfills this vision.</p>
+<p>The Internet Society believes that trust and the respect of individual freedoms, whether offline or online, are essential building blocks to achieve human, economic, and social development. Ultimately, it is up to all of us&mdash;governments, commercial and civil organizations, and citizens&mdash;to ensure that the Internet fulfills this vision.</p>
 <h3>Key Considerations</h3>
 <p><strong>An architecture supporting borderless expression</strong></p>
-<p>Although the Internet's original architects did not intentionally conceive the Internet as a tool to help advance human rights, the principles built into its design embody a vision of borderless, end-to-end communication. One could almost read Article 19 of the United Nations’ <em>Universal Declaration of Human Rights</em> (the freedom to share, receive, and impart information and ideas across frontiers) as a definition of the Internet, even though it was written a quarter of a century before the invention of the Internet protocol.</p>
-<p>The key principles underpinning the Internet’s architecture must be preserved for the Internet to further support online freedoms. For example, the end-to-end, decentralized nature of the network empowers the edges. This means that end users—those at the edges of the network, spread across a global network of networks—can share information and ideas across frontiers and without one central authority at the architectural level. While this has been beneficial for the growth of the Internet, the reality is that there are governments and Internet intermediaries (such as Internet service providers and social media platforms) that can intervene and implement limits on the flow of information. These parties sometimes implement restrictions or content controls on certain cross-border data flows.</p>
+<p>Although the Internet's original architects did not intentionally conceive the Internet as a tool to help advance human rights, the principles built into its design embody a vision of borderless, end-to-end communication. One could almost read Article 19 of the United Nations&rsquo; <em>Universal Declaration of Human Rights</em> (the freedom to share, receive, and impart information and ideas across frontiers) as a definition of the Internet, even though it was written a quarter of a century before the invention of the Internet protocol.</p>
+<p>The key principles underpinning the Internet&rsquo;s architecture must be preserved for the Internet to further support online freedoms. For example, the end-to-end, decentralized nature of the network empowers the edges. This means that end users&mdash;those at the edges of the network, spread across a global network of networks&mdash;can share information and ideas across frontiers and without one central authority at the architectural level. While this has been beneficial for the growth of the Internet, the reality is that there are governments and Internet intermediaries (such as Internet service providers and social media platforms) that can intervene and implement limits on the flow of information. These parties sometimes implement restrictions or content controls on certain cross-border data flows.</p>
 <p>Technology also plays a role in facilitating the advancement of human rights. Building upon open Internet standards initiatives, <a title="" name="_ftnref1" href="#_ftn1"> [1]</a>&nbsp;individuals and organizations across the globe are continuously developing new technologies and applications that enable the exercise of basic freedoms, such as the access to and sharing of information (e.g., email, Voice over Internet Protocol (VoIP), instant chat, video, blogs), freedom of peaceful association (e.g., social networks, forums), and access to knowledge and cultural content (e.g., Wikipedia).</p>
 <p><strong>Finding a new equilibrium for online rights </strong></p>
-<p>Every new communication technology requires that we rethink the delicate balance between fundamental rights and the needs of states in pursuing public policy objectives. The Internet’s unique characteristics have extended the ability and means to speak, create, innovate and associate, resulting in new dynamics between freedom of expression, privacy, and security.</p>
-<p>While it is generally agreed that individual rights can, in appropriate circumstances, give way to matters of public interest (e.g., law enforcement, public safety, security), other factors must be respected. The necessity, legitimacy, proportionality, and fairness of a situation must be determined before a lower level of protection is justified. The denial of users’ individual rights cannot be justified by vague and unspecified claims of national security or by unsubstantiated use of police power for the purported safety of the people.</p>
+<p>Every new communication technology requires that we rethink the delicate balance between fundamental rights and the needs of states in pursuing public policy objectives. The Internet&rsquo;s unique characteristics have extended the ability and means to speak, create, innovate and associate, resulting in new dynamics between freedom of expression, privacy, and security.</p>
+<p>While it is generally agreed that individual rights can, in appropriate circumstances, give way to matters of public interest (e.g., law enforcement, public safety, security), other factors must be respected. The necessity, legitimacy, proportionality, and fairness of a situation must be determined before a lower level of protection is justified. The denial of users&rsquo; individual rights cannot be justified by vague and unspecified claims of national security or by unsubstantiated use of police power for the purported safety of the people.</p>
 <p>A current example is found in discussions to restrict or weaken encryption technologies on the grounds that they may be used to conduct harmful activities. Beyond the question of whether such approaches would be effective, these proposals raise specific concerns, such as: are the benefits of undermining encryption for all Internet users greater than the risks posed by such an approach? We believe that weakening secure communications could lead to negative effects in terms of financial transactions, e-commerce, and anonymous speech in challenging environments. Ultimately, these would harm the trust that Internet users put in the network. Potential chilling effects must be considered when policy measures are proposed or implemented.</p>
 <p>The Internet Society believes that security should not be sought at the expense of individual rights. In a context of growing calls to overcome trade-off mindsets between security and online freedoms (in other words, that more of one means less of the other), we should consider ways in which security can be achieved without disproportional risks to expression or privacy online. Principles toward that end are included in our approach to Collaborative Security. <a title="" name="_ftnref2" href="#_ftn2"> [2] </a></p>
 <h3>Challenges</h3>
@@ -327,17 +33,17 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <p>Some of the key challenges at the intersection of the Internet and human rights include:</p>
 <p>&gt; <strong>Content filtering and blocking. </strong>Over the past few years, both democratic and authoritarian countries have enacted laws empowering government agencies to punish online dissent or to block access to online content or services, often under the claim of national security. For example, policies and regulations that require interruption of the Domain Name System (DNS) infrastructure, whether by filtering results or via domain name seizure, have serious deficiencies. These techniques usually do not solve the problem, they interfere with cross-border data flows and services, and they undermine the Internet as a single, unified, global communications network. DNS filtering and seizure raise human rights and freedom of expression concerns and often curtail international principles of rule of law and due process. These negative impacts far outweigh any short-term legal and business benefits.</p>
 <p>We encourage technical and policy collaboration to identify solutions based on international cooperation that do not harm the overall stability and interoperability of the Internet and that respect all human rights.</p>
-<p>&gt; <strong>Restricting or weakening of encryption technologies. </strong>One of the key ways in which people can protect their data—whether in the cloud, on a hard drive, or in transit—is by using encryption technology. Encryption is the process of encoding messages so only those authorized to view it are able to do so.</p>
+<p>&gt; <strong>Restricting or weakening of encryption technologies. </strong>One of the key ways in which people can protect their data&mdash;whether in the cloud, on a hard drive, or in transit&mdash;is by using encryption technology. Encryption is the process of encoding messages so only those authorized to view it are able to do so.</p>
 <p>Despite the enabling role of encryption to protect our privacy and expression, many governments, including strong supporters of an open Internet, have made public statements on the necessity to restrict the use of encryption so that those people undertaking illegal activities cannot hide from law enforcement. Other proposals relate to governments having special access to encrypted material in order to monitor whomever and whenever they choose in the context of security goals. While governments may have interests in crime prevention, such approaches would likely be ineffective. They would also likely decrease trust in the Internet for the greater number of users.</p>
 <p>The Internet Society is a firm advocate of anonymity and pervasive end-to-end encryption. <a title="" name="_ftnref4" href="#_ftn4"> [4]</a>&nbsp;We believe individuals should have the ability to communicate confidentially and anonymously on the Internet. We realize that aspiration comes with a set of difficult technical, economic, and policy questions, and that more dialogue is needed among stakeholders to find appropriate solutions to these issues.</p>
-<p>&gt; <strong>Liability imposed on Internet intermediaries. </strong>Internet intermediaries—services that mediate online communication and enable various forms of online expression, such as search engines, social networks, Internet service providers—have been subject to an increasing number of state requests and injunctions to remove content from their platforms. Internet intermediaries often operate across a variety of jurisdictions, and governments expect them to comply with national laws that, in turn, align in varying degrees with international human rights norms. There are many cases where speech can be considered acceptable under some national laws, yet forbidden under others. Dealing with these differences at the global level is no easy task and requires cooperation and dialogue.</p>
-<p>The policies governing the legal liability of intermediaries for the content of such communications have an impact on users’ rights, including freedom of expression, freedom of association, and the right to privacy. Governments should make sure that liability regimes enable companies to respect their users’ rights. Principles such as transparency, proportionality, due process, and accountability should underpin all policies related to such content requests.</p>
+<p>&gt; <strong>Liability imposed on Internet intermediaries. </strong>Internet intermediaries&mdash;services that mediate online communication and enable various forms of online expression, such as search engines, social networks, Internet service providers&mdash;have been subject to an increasing number of state requests and injunctions to remove content from their platforms. Internet intermediaries often operate across a variety of jurisdictions, and governments expect them to comply with national laws that, in turn, align in varying degrees with international human rights norms. There are many cases where speech can be considered acceptable under some national laws, yet forbidden under others. Dealing with these differences at the global level is no easy task and requires cooperation and dialogue.</p>
+<p>The policies governing the legal liability of intermediaries for the content of such communications have an impact on users&rsquo; rights, including freedom of expression, freedom of association, and the right to privacy. Governments should make sure that liability regimes enable companies to respect their users&rsquo; rights. Principles such as transparency, proportionality, due process, and accountability should underpin all policies related to such content requests.</p>
 <h3>Guiding Principles</h3>
 <p>The following are guiding principles to consider:</p>
-<p>&gt; <strong>Fundamental rights. </strong>The Internet is about opportunity, creativity, empowerment, knowledge, and freedom. It has been built on these principles and its future success is dependent upon them. Basic and fundamental rights underpin these principles and the vision that the Internet is for everyone. Rights that people have offline are applicable online.  </p>
+<p>&gt; <strong>Fundamental rights. </strong>The Internet is about opportunity, creativity, empowerment, knowledge, and freedom. It has been built on these principles and its future success is dependent upon them. Basic and fundamental rights underpin these principles and the vision that the Internet is for everyone. Rights that people have offline are applicable online.  </p>
 <p>&gt; <strong>Open connectivity. </strong>Being connected does not guarantee that one will be able to innovate or to freely share information and ideas. These abilities require a supportive Internet environment, one that is based on openness and without excessive restrictions on online activities.</p>
-<p>&gt; <strong>Trusted Internet. </strong>It is difficult to participate fully in today’s world without an open, available, and trusted Internet. This is destined to become even more pronounced as the Internet becomes increasingly central to how we work, play, learn, manage our money, and even select our healthcare.</p>
-<p>&gt; <strong>Technical restrictions. </strong>The use of technical measures to limit Internet access risk undermining users’ ability to exercise their fundamental rights and to leverage the Internet as a space that enables equal opportunities for all. We believe the Internet should be used to promote human rights, not to threaten them.</p>
+<p>&gt; <strong>Trusted Internet. </strong>It is difficult to participate fully in today&rsquo;s world without an open, available, and trusted Internet. This is destined to become even more pronounced as the Internet becomes increasingly central to how we work, play, learn, manage our money, and even select our healthcare.</p>
+<p>&gt; <strong>Technical restrictions. </strong>The use of technical measures to limit Internet access risk undermining users&rsquo; ability to exercise their fundamental rights and to leverage the Internet as a space that enables equal opportunities for all. We believe the Internet should be used to promote human rights, not to threaten them.</p>
 <p>&gt; <strong>Open dialogue. </strong>We strongly encourage open and inclusive dialogue on issues such as online privacy, including in the realm of national security, and the need for all stakeholders to abide by the norms and principles outlined in international agreements and fundamental rights.</p>
 <p>We have repeatedly called on the global Internet community to stand together and speak with authority in support of open Internet access, freedom, and privacy. Internet freedom issues are neither solely rights issues nor solely Internet issues; they need to be addressed by all stakeholders, including governments, the private sector, civil society, and engineers in the technical community. The Internet is a network of networks, and we all have a collective responsibility for its future.</p>
 <h3>Additional Resources</h3>
@@ -352,142 +58,6 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <p><a title="" name="_ftn1" href="#_ftnref1"> [1] </a> OpenStand Initiative, http://www.open-stand.org.</p>
 <p><a title="" name="_ftn2" href="#_ftnref2"> [2] </a> Internet Society Collaborative Security document, http://www.internetsociety.org/collaborativesecurity.</p>
 <p><a title="" name="_ftn3" href="#_ftnref3"> [3] </a> <em>2015 Freedom on the Net,</em> Freedom House, https://freedomhouse.org/report-types/freedom-net#.Ve852bQrk_p.</p>
-<p><a title="" name="_ftn4" href="#_ftnref4"> [4] </a> See Internet Society’s comments on encryption-by-default, http://www.internetsociety.org/news/internet-society-commends-internet-architecture-board-recommendation-encryption-default.</p>
-</div></div></div>  </div>
-
-  
-  
-</article>  </div>
-</div>
-  </div>
-			</div></section> <!-- end main content -->
-						
-    			<aside id="aside-right" role="complementary">  <div class="region region-sidebar-second">
-    <div id="block-block-21" class="block block-block block-button">
-
-    
-  <div class="content">
-    <p><a href="https://www.internetsociety.org/get-involved">Become a Member</a></p>
-  </div>
-</div>
-<div id="block-views-find-out-more-block" class="block block-views simple-white">
-
-    <h2>Find out More</h2>
-  
-  <div class="content">
-    <div class="view view-find-out-more view-id-find_out_more view-display-id-block related-links view-dom-id-ffd88fe5d12ad59147245e19f9f5c2da">
-        
-  
-  
-      <div class="view-content">
-          <ul class="menu">          <li class="views-row views-row-1 views-row-odd views-row-first views-row-last leaf">  
-  <div class="views-field views-field-field-link">        <div class="field-content"><a href="https://www.internetsociety.org/policybriefs/">Policy Briefs</a></div>  </div></li>
-      </ul>    </div>
-  
-  
-  
-  
-  
-  
-</div>  </div>
-</div>
-<div id="block-views-issues-block-5" class="block block-views simple-white">
-
-    <h2>Related to this theme</h2>
-  
-  <div class="content">
-    <div class="view view-issues view-id-issues view-display-id-block_5 view-dom-id-763c054a30d111faf7c2787122aba0f9">
-        
-  
-  
-      <div class="view-content">
-        <div class="views-row views-row-1 views-row-odd views-row-first">
-      
-  <div class="views-field views-field-title">        <span class="field-content"><a href="/blog/2013/06/freedom-security-and-trust">Freedom, security and trust</a></span>  </div>  
-  <div class="views-field views-field-field-date">        <div class="field-content"></div>  </div>  </div>
-  <div class="views-row views-row-2 views-row-even">
-      
-  <div class="views-field views-field-title">        <span class="field-content"><a href="/blog/2012/07/united-nations-human-rights-council-and-internet-society">The United Nations Human Rights Council and the Internet Society</a></span>  </div>  
-  <div class="views-field views-field-field-date">        <div class="field-content"></div>  </div>  </div>
-  <div class="views-row views-row-3 views-row-odd">
-      
-  <div class="views-field views-field-title">        <span class="field-content"><a href="/blog/public-policy/2015/10/freedom-internet-where-does-your-country-stand">Freedom on the Internet: Where does your country stand?</a></span>  </div>  
-  <div class="views-field views-field-field-date">        <div class="field-content"></div>  </div>  </div>
-  <div class="views-row views-row-4 views-row-even">
-      
-  <div class="views-field views-field-title">        <span class="field-content"><a href="/blog/2011/09/philadelphia-20-do-we-need-internet-constitution">Philadelphia 2.0: Do we need an Internet Constitution?</a></span>  </div>  
-  <div class="views-field views-field-field-date">        <div class="field-content"></div>  </div>  </div>
-  <div class="views-row views-row-5 views-row-odd views-row-last">
-      
-  <div class="views-field views-field-title">        <span class="field-content"><a href="/blog/2012/12/internet-and-right-participate-public-life-amplifying-voices">The Internet and the Right to Participate in Public Life: Amplifying Voices</a></span>  </div>  
-  <div class="views-field views-field-field-date">        <div class="field-content"></div>  </div>  </div>
-    </div>
-  
-  
-  
-  
-  
-  
-</div>  </div>
-</div>
-<div id="block-locale-language--2" class="block block-locale simple-white">
-
-    
-  <div class="content">
-    <ul class="language-switcher-locale-url"><li class="ar first"><span class="language-link locale-untranslated" xml:lang="ar" lang="ar">العربية</span></li>
-<li class="zh-hans"><span class="language-link locale-untranslated" xml:lang="zh-hans" lang="zh-hans">简体中文</span></li>
-<li class="en active"><a href="/policybriefs/humanrights" class="language-link active" xml:lang="en" lang="en">English</a></li>
-<li class="fr"><span class="language-link locale-untranslated" xml:lang="fr" lang="fr">Français</span></li>
-<li class="ru"><span class="language-link locale-untranslated" xml:lang="ru" lang="ru">Русский</span></li>
-<li class="es"><span class="language-link locale-untranslated" xml:lang="es" lang="es">Español</span></li>
-<li class="ur last"><span class="language-link locale-untranslated" xml:lang="ur" lang="ur">اردو</span></li>
-</ul>  </div>
-</div>
-<div id="block-block-97" class="block block-block reset">
-
-    
-  <div class="content">
-    <div class="rtecenter" style="border: 1px solid #d3d3d3; background-color: #ffffff; padding: 0px;">
-<div><img style="width: 80px; height: 15px; margin-top: 10px; margin-bottom: 10px;" src="/sites/default/files/Follow%20Us.jpg" alt="Follow Us"></div>
-<div class="follow-inner"><a title="Join our many followers on Facebook" href="http://www.facebook.com/InternetSociety"><img style="width: 30px; height: 30px;" src="/sites/default/files/Buttons-Facebook.png" alt="Follow us on Facebook"></a>&nbsp; &nbsp;&nbsp;<a href="http://twitter.com/internetsociety"><img style="width: 30px; height: 30px;" src="/sites/default/files/Buttons-Twitter2.png" alt="Follow us on Twitter"></a>&nbsp; &nbsp;&nbsp;<a href="http://www.linkedin.com/company/internet-society"><img style="width: 30px; height: 30px;" src="/sites/default/files/Buttons-Linkedin.png" alt="Follow us on Linkedin"></a>&nbsp; &nbsp;&nbsp;<a href="http://www.youtube.com/InternetSocietyVideo"><img style="width: 30px; height: 30px;" src="/sites/default/files/Button-YouTube.png" alt="Go to our Youtube channel"></a>&nbsp;&nbsp; &nbsp;<a href="http://www.scoop.it/u/internet-society"><img style="width: 30px; height: 30px;" src="/sites/default/files/Button-Scoopit-InternetSociety-colors.png" alt="Follow our Scoopit feed"></a></div>
-<div>&nbsp;</div>
-</div>
-  </div>
-</div>
-  </div>
-</aside> <!-- end aside-right -->					
-</div><div class="clear"></div></div><!-- end container -->
-<footer id="footer">  <div class="region region-footer">
-    <div id="block-menu-menu-footer" class="block block-menu">
-
-    
-  <div class="content">
-    <ul class="menu"><li class="first leaf"><a href="/who-we-are/contact-us" title="Contact Us">Contact Us</a></li>
-<li class="leaf"><a href="/internet-society-statement-privacy" title="Privacy">Privacy</a></li>
-<li class="leaf"><a href="/internet-society-comment-policy">Comment Policy</a></li>
-<li class="leaf"><a href="/styleguide" title="Identity Guidelines">Identity Guidelines</a></li>
-<li class="leaf"><a href="/rss" title="RSS">RSS</a></li>
-<li class="leaf"><a href="/site-map">Sitemap</a></li>
-<li class="leaf"><a href="/publications/ietf-journal/glossary" title="Glossary">Glossary</a></li>
-<li class="last leaf"><a href="/get-involved/spread-word/sharing-our-content" title="Share Our Content">Share Our Content</a></li>
-</ul>  </div>
-</div>
-<div id="block-block-1" class="block block-block reset">
-
-    
-  <div class="content">
-    <div class="content">
-<div><a href="/get-involved/spread-word/sharing-our-content" target="_blank">Copyright © 2015 Internet Society</a> | <a href="mailto:isoc@isoc.org">isoc@isoc.org</a></div>
-<div>&nbsp;</div>
-<div>1775 Wiehle Avenue, Suite 201, Reston, VA 20190-5108 U.S.A. +1-703-439-2120</div>
-<div>Galerie Jean-Malbuisson 15, CH-1204 Geneva, Switzerland +41 22 807 1444</div>
-</div>
-<p>&nbsp;</p>
-  </div>
-</div>
-  </div>
-</footer> <!-- end footer -->
-  
-</body>
-
-</html>
+<p><a title="" name="_ftn4" href="#_ftnref4"> [4] </a> See Internet Society&rsquo;s comments on encryption-by-default, http://www.internetsociety.org/news/internet-society-commends-internet-architecture-board-recommendation-encryption-default.</p>
+</article>  
+</body></html>
