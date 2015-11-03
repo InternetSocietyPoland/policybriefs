@@ -1,0 +1,493 @@
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+
+<head>
+
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://www.internetsociety.org/sites/all/themes/isoc/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="shortlink" href="/node/475942" />
+<link rel="canonical" href="/policybriefs/spam" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+
+  <title>Policy Brief: The Challenge of Spam | Internet Society</title>
+
+  <style type="text/css" media="all">
+@import url("http://www.internetsociety.org/modules/system/system.base.css?nwxq40");
+@import url("http://www.internetsociety.org/modules/system/system.menus.css?nwxq40");
+@import url("http://www.internetsociety.org/modules/system/system.messages.css?nwxq40");
+@import url("http://www.internetsociety.org/modules/system/system.theme.css?nwxq40");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.internetsociety.org/sites/all/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.core.min.css?nwxq40");
+@import url("http://www.internetsociety.org/sites/all/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.theme.min.css?nwxq40");
+@import url("http://www.internetsociety.org/sites/all/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.menu.min.css?nwxq40");
+@import url("http://www.internetsociety.org/sites/all/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.autocomplete.min.css?nwxq40");
+@import url("http://www.internetsociety.org/sites/all/libraries/mediaelement/build/mediaelementplayer.min.css?nwxq40");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.internetsociety.org/sites/all/modules/contrib/comment_notify/comment_notify.css?nwxq40");
+@import url("http://www.internetsociety.org/modules/aggregator/aggregator.css?nwxq40");
+@import url("http://www.internetsociety.org/modules/comment/comment.css?nwxq40");
+@import url("http://www.internetsociety.org/sites/all/modules/contrib/date/date_api/date.css?nwxq40");
+@import url("http://www.internetsociety.org/sites/all/modules/contrib/date/date_popup/themes/datepicker.1.7.css?nwxq40");
+@import url("http://www.internetsociety.org/sites/all/modules/contrib/date/date_repeat_field/date_repeat_field.css?nwxq40");
+@import url("http://www.internetsociety.org/modules/field/theme/field.css?nwxq40");
+@import url("http://www.internetsociety.org/sites/all/modules/contrib/mollom/mollom.css?nwxq40");
+@import url("http://www.internetsociety.org/modules/node/node.css?nwxq40");
+@import url("http://www.internetsociety.org/modules/search/search.css?nwxq40");
+@import url("http://www.internetsociety.org/modules/user/user.css?nwxq40");
+@import url("http://www.internetsociety.org/sites/all/modules/contrib/views/css/views.css?nwxq40");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.internetsociety.org/sites/all/modules/contrib/ctools/css/ctools.css?nwxq40");
+@import url("http://www.internetsociety.org/sites/all/modules/custom/editorial_calendar/editorial_calendar.css?nwxq40");
+@import url("http://www.internetsociety.org/sites/all/modules/contrib/lightbox2/css/lightbox.css?nwxq40");
+@import url("http://www.internetsociety.org/sites/all/modules/contrib/rate/rate.css?nwxq40");
+@import url("http://www.internetsociety.org/sites/all/modules/contrib/shorten/shortener/shortener.css?nwxq40");
+@import url("http://www.internetsociety.org/sites/all/modules/contrib/tagclouds/tagclouds.css?nwxq40");
+@import url("http://www.internetsociety.org/sites/all/modules/contrib/views_slideshow_xtra/views_slideshow_xtra.css?nwxq40");
+@import url("http://www.internetsociety.org/modules/locale/locale.css?nwxq40");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.internetsociety.org/sites/all/themes/isoc/css/html-reset.css?nwxq40");
+@import url("http://www.internetsociety.org/sites/all/themes/isoc/css/master.css?nwxq40");
+@import url("http://www.internetsociety.org/sites/all/themes/isoc/css/isoc_ie.css?nwxq40");
+</style>
+<style type="text/css" media="print">
+@import url("http://www.internetsociety.org/sites/all/themes/isoc/css/print.css?nwxq40");
+</style>
+<style type="text/css" media="screen and (min-width: 760px) and (max-width: 959px)">
+@import url("http://www.internetsociety.org/sites/all/themes/isoc/css/medium.css?nwxq40");
+</style>
+<style type="text/css" media="screen and (min-width: 0px) and (max-width: 759px)">
+@import url("http://www.internetsociety.org/sites/all/themes/isoc/css/small.css?nwxq40");
+</style>
+
+  <script type="text/javascript" src="http://www.internetsociety.org/sites/all/modules/contrib/jquery_update/replace/jquery/1.7/jquery.min.js?v=1.7.2"></script>
+<script type="text/javascript" src="http://www.internetsociety.org/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://www.internetsociety.org/misc/drupal.js?nwxq40"></script>
+<script type="text/javascript" src="http://www.internetsociety.org/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.core.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="http://www.internetsociety.org/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.widget.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="http://www.internetsociety.org/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.mouse.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="http://www.internetsociety.org/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.draggable.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="http://www.internetsociety.org/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.position.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="http://www.internetsociety.org/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.menu.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="http://www.internetsociety.org/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.autocomplete.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="http://www.internetsociety.org/sites/all/libraries/mediaelement/build/mediaelement-and-player.min.js?v=2.1.6"></script>
+<script type="text/javascript" src="http://www.internetsociety.org/sites/all/modules/contrib/jquery_update/replace/ui/external/jquery.cookie.js?v=67fb34f6a866c40d0570"></script>
+<script type="text/javascript" src="http://www.internetsociety.org/sites/all/modules/contrib/jquery_update/replace/misc/jquery.form.min.js?v=2.69"></script>
+<script type="text/javascript" src="http://www.internetsociety.org/misc/ajax.js?v=7.41"></script>
+<script type="text/javascript" src="http://www.internetsociety.org/sites/all/modules/contrib/jquery_update/js/jquery_update.js?v=0.0.1"></script>
+<script type="text/javascript" src="http://www.internetsociety.org/sites/all/modules/contrib/comment_notify/comment_notify.js?nwxq40"></script>
+<script type="text/javascript" src="http://www.internetsociety.org/sites/all/modules/contrib/gss/scripts/autocomplete.js?nwxq40"></script>
+<script type="text/javascript" src="http://www.internetsociety.org/misc/progress.js?v=7.41"></script>
+<script type="text/javascript" src="http://www.internetsociety.org/sites/all/modules/contrib/lightbox2/js/lightbox.js?nwxq40"></script>
+<script type="text/javascript" src="http://www.internetsociety.org/sites/all/modules/contrib/mediaelement/mediaelement.js?nwxq40"></script>
+<script type="text/javascript" src="http://www.internetsociety.org/sites/all/modules/contrib/shorten/shortener/shortener.js?nwxq40"></script>
+<script type="text/javascript" src="http://www.internetsociety.org/sites/all/modules/contrib/views_slideshow_xtra/views_slideshow_xtra.js?nwxq40"></script>
+<script type="text/javascript" src="http://www.internetsociety.org/sites/all/modules/contrib/views/js/base.js?nwxq40"></script>
+<script type="text/javascript" src="http://www.internetsociety.org/sites/all/modules/contrib/views/js/ajax_view.js?nwxq40"></script>
+<script type="text/javascript" src="http://www.internetsociety.org/sites/all/modules/contrib/google_analytics/googleanalytics.js?nwxq40"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1978561-7", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://use.typekit.com/rnx8nlh.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+try{Typekit.load();}catch(e){}
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.internetsociety.org/sites/all/themes/isoc/js/dropdown.js?nwxq40"></script>
+<script type="text/javascript" src="http://www.internetsociety.org/sites/all/themes/isoc/js/Drupal.behaviors.navigationAccessKeys.js?nwxq40"></script>
+<script type="text/javascript" src="http://www.internetsociety.org/sites/all/themes/isoc/js/operatabs.js?nwxq40"></script>
+<script type="text/javascript" src="http://www.internetsociety.org/sites/all/themes/isoc/js/selectnav.min.js?nwxq40"></script>
+<script type="text/javascript" src="http://www.internetsociety.org/sites/all/themes/isoc/js/scripts.js?nwxq40"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"isoc","theme_token":"FeUBBcGIg2EinJx6Tx2ZAu8SdFRSHLAHadR8MiUpt6o","jquery_version":"1.7","js":{"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.mouse.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.draggable.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.position.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.menu.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.autocomplete.min.js":1,"sites\/all\/libraries\/mediaelement\/build\/mediaelement-and-player.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/misc\/jquery.form.min.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/contrib\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/modules\/contrib\/comment_notify\/comment_notify.js":1,"sites\/all\/modules\/contrib\/gss\/scripts\/autocomplete.js":1,"misc\/progress.js":1,"sites\/all\/modules\/contrib\/lightbox2\/js\/lightbox.js":1,"sites\/all\/modules\/contrib\/mediaelement\/mediaelement.js":1,"sites\/all\/modules\/contrib\/shorten\/shortener\/shortener.js":1,"sites\/all\/modules\/contrib\/views_slideshow_xtra\/views_slideshow_xtra.js":1,"sites\/all\/modules\/contrib\/views\/js\/base.js":1,"sites\/all\/modules\/contrib\/views\/js\/ajax_view.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1,"http:\/\/use.typekit.com\/rnx8nlh.js":1,"1":1,"sites\/all\/themes\/isoc\/js\/dropdown.js":1,"sites\/all\/themes\/isoc\/js\/Drupal.behaviors.navigationAccessKeys.js":1,"sites\/all\/themes\/isoc\/js\/operatabs.js":1,"sites\/all\/themes\/isoc\/js\/selectnav.min.js":1,"sites\/all\/themes\/isoc\/js\/scripts.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.menu.css":1,"misc\/ui\/jquery.ui.autocomplete.css":1,"sites\/all\/libraries\/mediaelement\/build\/mediaelementplayer.min.css":1,"sites\/all\/modules\/contrib\/comment_notify\/comment_notify.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/contrib\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/custom\/editorial_calendar\/editorial_calendar.css":1,"sites\/all\/modules\/contrib\/lightbox2\/css\/lightbox.css":1,"sites\/all\/modules\/contrib\/rate\/rate.css":1,"sites\/all\/modules\/contrib\/shorten\/shortener\/shortener.css":1,"sites\/all\/modules\/contrib\/tagclouds\/tagclouds.css":1,"sites\/all\/modules\/contrib\/views_slideshow_xtra\/views_slideshow_xtra.css":1,"modules\/locale\/locale.css":1,"sites\/all\/themes\/isoc\/css\/html-reset.css":1,"sites\/all\/themes\/isoc\/css\/master.css":1,"sites\/all\/themes\/isoc\/css\/isoc_ie.css":1,"sites\/all\/themes\/isoc\/css\/print.css":1,"sites\/all\/themes\/isoc\/css\/medium.css":1,"sites\/all\/themes\/isoc\/css\/small.css":1}},"gss":{"key":"015267653312545538371:dihpk_sjx-e"},"lightbox2":{"rtl":"0","file_path":"\/(\\w\\w\/)public:\/","default_image":"\/sites\/all\/modules\/contrib\/lightbox2\/images\/brokenimage.jpg","border_size":10,"font_color":"000","box_color":"fff","top_position":"","overlay_opacity":"0.8","overlay_color":"000","disable_close_click":true,"resize_sequence":0,"resize_speed":400,"fade_in_speed":400,"slide_down_speed":600,"use_alt_layout":false,"disable_resize":false,"disable_zoom":false,"force_show_nav":false,"show_caption":true,"loop_items":false,"node_link_text":"View Image Details","node_link_target":false,"image_count":"Image !current of !total","video_count":"Video !current of !total","page_count":"Page !current of !total","lite_press_x_close":"press \u003Ca href=\u0022#\u0022 onclick=\u0022hideLightbox(); return FALSE;\u0022\u003E\u003Ckbd\u003Ex\u003C\/kbd\u003E\u003C\/a\u003E to close","download_link_text":"","enable_login":false,"enable_contact":false,"keys_close":"c x 27","keys_previous":"p 37","keys_next":"n 39","keys_zoom":"z","keys_play_pause":"32","display_image_size":"original","image_node_sizes":"()","trigger_lightbox_classes":"","trigger_lightbox_group_classes":"","trigger_slideshow_classes":"","trigger_lightframe_classes":"","trigger_lightframe_group_classes":"","custom_class_handler":0,"custom_trigger_classes":"","disable_for_gallery_lists":true,"disable_for_acidfree_gallery_lists":true,"enable_acidfree_videos":true,"slideshow_interval":5000,"slideshow_automatic_start":true,"slideshow_automatic_exit":true,"show_play_pause":true,"pause_on_next_click":false,"pause_on_previous_click":true,"loop_slides":false,"iframe_width":600,"iframe_height":400,"iframe_border":1,"enable_video":false},"mediaelementAll":true,"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:0392ee8dfde14927fc2783e112c91f31":{"view_name":"issues","view_display_id":"block_5","view_args":"1762+1349\/475942","view_path":"node\/475942","view_base_path":null,"view_dom_id":"0392ee8dfde14927fc2783e112c91f31","pager_element":0}}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/policybriefs\/spam":true}});
+//--><!]]>
+</script>
+
+<!--<link rel="stylesheet" href="/sites/all/themes/isoc/css/handheld.css" media="handheld"/>-->
+<!--[if IE]><script src="/sites/all/themes/isoc/js/html5.js"></script><![endif]-->
+<!--[if (gte IE 6)&(lte IE 8)]>
+  <script type="text/javascript" src="/sites/all/themes/isoc/js/selectivizr-1.0.2/selectivizr-min.js"></script>
+  <link rel="stylesheet" href="/sites/all/themes/isoc/css/ie.css" />
+<![endif]-->
+</head>
+
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-475942 node-type-document i18n-en" >
+
+ <div id="skip-link">
+
+	<a href="#nav" class="element-invisible element-focusable">Jump to Navigation</a>
+
+	<a href="#columns" class="element-invisible element-focusable">Jump to Content</a>
+
+	<a href="/sitemap" class="element-invisible element-focusable">Jump to Site Map</a>
+
+ </div>
+
+  
+  <div id="headerutility">  <div class="region region-headerutility">
+    <div id="block-locale-language" class="block block-locale simple-white">
+
+    
+  <div class="content">
+    <ul class="language-switcher-locale-url"><li class="ar first"><span class="language-link locale-untranslated" xml:lang="ar" lang="ar">العربية</span></li>
+<li class="zh-hans"><span class="language-link locale-untranslated" xml:lang="zh-hans" lang="zh-hans">简体中文</span></li>
+<li class="en active"><a href="/policybriefs/spam" class="language-link active" xml:lang="en" lang="en">English</a></li>
+<li class="fr"><span class="language-link locale-untranslated" xml:lang="fr" lang="fr">Français</span></li>
+<li class="ru"><span class="language-link locale-untranslated" xml:lang="ru" lang="ru">Русский</span></li>
+<li class="es"><span class="language-link locale-untranslated" xml:lang="es" lang="es">Español</span></li>
+<li class="ur last"><span class="language-link locale-untranslated" xml:lang="ur" lang="ur">اردو</span></li>
+</ul>  </div>
+</div>
+<div id="block-menu-menu-header-menu" class="block block-menu">
+
+    
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/" title="">Home</a></li>
+<li class="leaf"><a href="http://connect.internetsociety.org?utm_source=Top%20link&amp;utm_medium=site&amp;utm_campaign=Main%20website%20top%20link" title="">Connect Login</a></li>
+<li class="leaf"><a href="http://www.internetsociety.org/get-involved" title="">Become a Member</a></li>
+<li class="leaf"><a href="/find-chapter" title="Find a Chapter">Find a Chapter</a></li>
+<li class="leaf"><a href="/blog">Blog</a></li>
+<li class="last leaf"><a href="/news" title="">News</a></li>
+</ul>  </div>
+</div>
+  </div>
+<div class="clear"></div></div> <!-- header utility -->	
+<header id="header">
+    <div class="region region-header">
+    <div id="block-search-form" class="block block-search" role="search">
+
+    
+  <div class="content">
+    <form class="gss" action="/policybriefs/spam" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-HC1TlPbfFy2UjoVBWkDKFqaB3no55YEq8zsWBAvgg6w" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+  </div>
+  <h1>  <a href="/" title="Internet Society - Go to Home Page">
+  <img src="http://www.internetsociety.org/sites/default/files/logo-new.png" class="logo" alt="Go to ISOC Home" >
+  </a><span class="offscreen">Internet Society</span></h1>
+  <div class="clear"></div>
+</header> <!-- #header -->
+<nav id="nav" title="Internet Society Site Navigation"><h2 class="offscreen">Internet Society Site Navigation</h2><div class="smallmenu"><a href="#">MENU +</a></div>  <div class="region region-navigation">
+    <div id="block-system-main-menu" class="block block-system block-menu">
+
+    
+  <div class="content">
+    <ul class="menu"><li class="first expanded"><a href="/who-we-are" title="Who We Are">Who We Are</a><ul class="menu"><li class="first collapsed"><a href="/who-we-are/mission" title="Mission">Mission</a></li>
+<li class="leaf"><a href="/who-we-are/what-we-do">What We Do</a></li>
+<li class="leaf"><a href="/history" title="The History of the Internet Society">Our History</a></li>
+<li class="leaf"><a href="/who-we-are/our-global-approach" title="Our Global Approach">Our Global Approach</a></li>
+<li class="leaf"><a href="/who-we-are/regional-bureaus" title="Our Regional Bureaus">Our Regional Bureaus</a></li>
+<li class="leaf"><a href="/who-we-are/our-members" title="Our Members">Our Members</a></li>
+<li class="collapsed"><a href="/who-we-are/chapters">Chapters</a></li>
+<li class="collapsed"><a href="/who-we-are/internet-society-special-interest-groups-sig">Special Interest Groups (SIG)</a></li>
+<li class="collapsed"><a href="/who-we-are/our-community-and-partners" title="Related and Partner Organisations">Our Community and Partners</a></li>
+<li class="collapsed"><a href="/who-we-are/organisation-member-advisory-council-omac" title="Advisory Council">Organisation Member Advisory Council</a></li>
+<li class="collapsed"><a href="/who-we-are/chapters-advisory-council" title="Chapters Advisory Council">Chapters Advisory Council</a></li>
+<li class="collapsed"><a href="/who-we-are/board-trustees" title="">Board of Trustees</a></li>
+<li class="collapsed"><a href="/who-we-are/organization-reports-and-policies" title="Organization Reports &amp; Policies">Organization Reports &amp; Policies</a></li>
+<li class="leaf"><a href="/who-we-are/career-opportunities" title="Career Opportunities">Career Opportunities</a></li>
+<li class="leaf"><a href="/who-we-are/staff-and-advisors" title="Staff and Advisors">Staff and Advisors</a></li>
+<li class="last collapsed"><a href="/who-we-are/contact-us" title="Contact Us">Contact Us</a></li>
+</ul></li>
+<li class="expanded"><a href="/what-we-do" title="What We Do">What We Do</a><ul class="menu"><li class="first leaf"><a href="/what-we-do/why-internet-matters" title="Why It Matters">Why It Matters</a></li>
+<li class="collapsed"><a href="/what-we-do/how-we-work" title="How We Work">How We Work</a></li>
+<li class="collapsed"><a href="/what-we-do/where-we-work" title="Where We Work">Where We Work</a></li>
+<li class="collapsed"><a href="/what-we-do/internet-issues" title="Issues">Issues</a></li>
+<li class="leaf"><a href="http://www.internetsociety.org/deploy360/" title="Deploy360">Deploy360 Programme</a></li>
+<li class="collapsed"><a href="/development" title="Development">Development</a></li>
+<li class="collapsed"><a href="/what-we-do/public-policy">Public Policy</a></li>
+<li class="collapsed"><a href="/itm">Internet Technology Matters</a></li>
+<li class="collapsed"><a href="/what-we-do/inforum-learn-online" title="Online Courses - Inforum">Online Courses - Inforum</a></li>
+<li class="collapsed"><a href="/what-we-do/education-and-leadership-programmes" title="Education and Leadership Programmes">Leadership Programmes</a></li>
+<li class="collapsed"><a href="/what-we-do/grants-awards" title="Grants &amp; Awards">Grants &amp; Awards</a></li>
+<li class="last leaf"><a href="/what-we-do/impacts" title="Impacts">Impacts</a></li>
+</ul></li>
+<li class="expanded"><a href="/internet-events" title="Events">Events</a><ul class="menu"><li class="first collapsed"><a href="/events/afpif" title="African Peering and Interconnection Forum (AfPIF)">AfPIF</a></li>
+<li class="collapsed"><a href="/events/asia-internet-symposium">Asia Internet Symposium</a></li>
+<li class="collapsed"><a href="/events/event-calendar">Events Calendar</a></li>
+<li class="leaf"><a href="/events/ietf-meetings" title="IETF Meetings">IETF Meetings</a></li>
+<li class="collapsed"><a href="/events/inet-conferences" title="INET Conferences">INET Conferences</a></li>
+<li class="leaf"><a href="https://www.internetsociety.org/intercommunity2015/" title="">InterCommunity</a></li>
+<li class="leaf"><a href="http://www.internetsociety.org/igf" title="">Internet Governance Forum</a></li>
+<li class="leaf"><a href="/events/ion-conferences" title="ION">ION</a></li>
+<li class="collapsed"><a href="/events/ndss-symposium" title="NDSS Symposium">NDSS Symposium</a></li>
+<li class="last collapsed"><a href="/events/workshops" title="Workshops">Workshops</a></li>
+</ul></li>
+<li class="expanded"><a href="/publications" title="Publications">Publications</a><ul class="menu"><li class="first leaf"><a href="/who-we-are/organization-reports-and-policies/annual-review" title="">Annual Review</a></li>
+<li class="leaf"><a href="/publications/ietf-journal" title="">IETF Journal</a></li>
+<li class="leaf"><a href="/publications/isp-column">ISP Column</a></li>
+<li class="leaf"><a href="/publications/member-briefings">Member Briefings</a></li>
+<li class="leaf"><a href="/newsletter" title="Monthly Newsletter">Newsletter</a></li>
+<li class="leaf"><a href="/publications/internet-measurement-project">Internet Measurement Project</a></li>
+<li class="leaf"><a href="/publications/global-internet-report">Global Internet Report</a></li>
+<li class="last leaf"><a href="/publications/document-library" title="Document Library">Document Library</a></li>
+</ul></li>
+<li class="expanded"><a href="/internet" title="The Internet">The Internet</a><ul class="menu"><li class="first collapsed"><a href="/internet/what-internet" title="What Is the Internet?">What Is the Internet?</a></li>
+<li class="collapsed"><a href="/internet/how-it-works" title="How it Works">How it Works</a></li>
+<li class="leaf"><a href="/internet/who-makes-it-work" title="Who Makes it Work">Who Makes it Work</a></li>
+<li class="collapsed"><a href="/internet/how-internet-evolving" title="How Is the Internet Evolving?">How Is the Internet Evolving?</a></li>
+<li class="last leaf"><a href="/internet/global-internet-user-survey-2012" title="Global Internet User Survey 2012">Global Internet User Survey</a></li>
+</ul></li>
+<li class="expanded"><a href="/get-involved" title="Get Involved">Get Involved</a><ul class="menu"><li class="first leaf"><a href="/get-involved/attend-event">Attend an Event</a></li>
+<li class="leaf"><a href="/get-involved/join-community" title="Join the Community">Join the Community</a></li>
+<li class="collapsed"><a href="/get-involved/individuals" title="Individuals">Individuals</a></li>
+<li class="collapsed"><a href="/get-involved/join-community/organisations-and-corporations" title="Organisations and Corporations">Organisations and Corporations</a></li>
+<li class="leaf"><a href="/get-involved/volunteer" title="Volunteer ">Volunteer </a></li>
+<li class="last collapsed"><a href="/get-involved/spread-word" title="Spread the Word">Spread the Word</a></li>
+</ul></li>
+<li class="last leaf"><a href="/form/donation" title="Donate">Donate</a></li>
+</ul>  </div>
+</div>
+  </div>
+<div class="clear"></div></nav>
+<!-- #nav -->
+				
+<div id="columns">
+			 	<div class="rescontainer"><section id="copy" role="main"><div class="inner">
+								<h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> » Policy Brief: The Challenge of Spam</div>				      												<h1>Policy Brief: The Challenge of Spam</h1>      			      			<div class="tabs"></div>      						  <div class="region region-content-above">
+    <div id="block-views-document-viewer-block-5" class="block block-views">
+
+    
+  <div class="content">
+    <div class="view view-document-viewer view-id-document_viewer view-display-id-block_5 view-dom-id-16f85497227093e00081b746c6da1cb4">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <span class="views-field views-field-field-image">        <span class="field-content"><a href="http://www.internetsociety.org/sites/default/files/ISOC-PolicyBrief-Spam-20151030_0.pdf" class="doc-img"><img src="http://www.internetsociety.org/sites/default/files/styles/library/public/ISOC-PolicyBrief-Spam.JPG?itok=_VfcTYo9" width="120" height="169" alt="" /></a></span>  </span>  
+  <span class="views-field views-field-field-fileupload-1">        <span class="field-content"><a href="http://www.internetsociety.org/sites/default/files/ISOC-PolicyBrief-Spam-20151030_0.pdf">
+ 
+<span>Download File</span></a></span>  </span>  
+  <span class="views-field views-field-field-date">        <span class="field-content"><br><br><strong>Date:</strong> <span class="date-display-single">30 Oct 2015</span></span>  </span>  
+  <span class="views-field views-field-field-typedoc">        <span class="field-content"><br><strong>Document Type:</strong> Briefing Papers</span>  </span>  
+  <span class="views-field views-field-field-tags">        <span class="field-content"><br><strong>Tags:</strong> <a href="/tags/public-policy">Public Policy</a></span>  </span>  
+  <span class="views-field views-field-field-tags-1">    <span class="views-label views-label-field-tags-1">,</span>    <span class="field-content"><a href="/tags/spam">Spam</a></span>  </span>  
+  <div class="views-field views-field-nothing-2">        <span class="field-content"><hr></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+</div>
+  </div>
+      					      	  <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+      <article id="node-475942" class="node node-document clearfix">
+
+      
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><h2>The Challenge of Spam</h2>
+<p><em>An Internet Society Public Policy Briefing</em></p>
+<blockquote><p>The proliferation of spam email presents a harmful, costly, and evolving threat to Internet users. Governments can help reduce the impact of spam by deterring offenders via effective laws and enforcement measures, multistakeholder antispam efforts, the adoption of best practices, and citizen education about the dangers of spam.</p>
+</blockquote>
+<h3>Introduction</h3>
+<p>Spam email, those unsolicited email messages we find cluttering our inboxes, are a challenge for Internet users, businesses, and policymakers alike. Estimates vary, but some suggest that more than 100 billion spam messages are sent every day, representing up to 85 percent of global daily email traffic. <a title="" name="_ftnref1" href="#_ftn1"> [1] </a></p>
+<p>The term <em>spam</em> generally refers to unsolicited electronic communications (typically email) or, in some cases, unsolicited commercial bulk communications. <a title="" name="_ftnref2" href="#_ftn2"> [2]</a>&nbsp;Some refer to this kind of email simply as <em>junk email.</em> While spam activity is largely concentrated in the form of email, spam is an evolving threat that has spread into virtually all types of electronic messages, including mobile Short Message Service (SMS) text messages, social media postings, instant messaging systems, and online forums.</p>
+<p>Beyond the annoyance and the time wasted sifting through unwanted messages, spam can cause significant harm by infecting users’ computers with malicious software capable of damaging systems and stealing personal information. It also can consume network resources.</p>
+<p>Today, some of the most common types of harmful spam are financial scam messages, email messages with embedded phishing software <a title="" name="_ftnref3" href="#_ftn3"> [3]</a>, botnet malware <a title="" name="_ftnref4" href="#_ftn4"> [4]</a>, and/or ransomware. <a title="" name="_ftnref5" href="#_ftn5"> [5]</a>&nbsp;Spammers are highly inventive and relentless. They are constantly creating ever-more-attractive bait to entice users to open malware-containing messages. And they continue to seek new email address lists and new communication media to target.</p>
+<h3>Key Considerations</h3>
+<p>Governments around the world are taking legal steps to combat spam, although so far these efforts are more prevalent in western and developed countries. This might be because those countries faced the spam threat earlier. Countries that have adopted legislation regarding spam also have defined what they consider to be spam. These countries have made spam illegal, provided consumer education on how to manage spam, and in some cases, enacted and used enforcement measures to deter spammers. The result has been a noticeable drop of domestic spam, as confirmed in the Netherlands in 2010. After the Dutch government enacted an antispam law, users in the country experienced an 85 percent decrease in domestic spam. <a title="" name="_ftnref6" href="#_ftn6"> [6] </a> However, spammers might have moved to countries without antispam laws. In addition to individual national legislation, there exists an international spam enforcement community known as the London Action Plan (LAP), which works to collaborate on cross-border spam enforcement and related issues. <a title="" name="_ftnref7" href="#_ftn7"> [7] </a></p>
+<p>Network operators and the technical community have developed best practices for managing network security threats, including spam. For example, the Messaging, Malware, and Mobile Anti-Abuse Working Group (M<sup>3</sup>AAWG) <a title="" name="_ftnref8" href="#_ftn8"> [8]</a>&nbsp;produces documents on approaches and tools available to address security issues, such as describing steps to better manage the impact of spam on a network. <a title="" name="_ftnref9" href="#_ftn9"> [9]</a>&nbsp;The Spamhaus Project <a title="" name="_ftnref10" href="#_ftn10"> [10]</a>&nbsp;tracks spam operations and sources to provide real-time network protection and works with law enforcement to combat spam. There are also national and international organizations that work on ways to better manage spam, including the Global System for Mobile Association (GSMA), Regional Internet Registries (RIRs), the International Telecommunications Union (ITU), and the Internet Society.</p>
+<p>There are a variety of spam-blocking tools that can improve the way users deal with spam. But no matter how effective spam-blocking technology becomes, end users will always need to be vigilant about the possibility of harmful spam messages reaching them because no tool is perfect and spammers are always inventing new ways to spam. Also, it can be hard for users to recognize whether a message is malicious. Verizon’s <em>2015 Data Breach Investigations Report </em>indicates that 23 percent of email recipients open phishing messages and 11 percent click on attachments, thereby compromising their computers and networked systems. <a title="" name="_ftnref11" href="#_ftn11"> [11] </a></p>
+<h3>Challenges</h3>
+<p>From a broad perspective, spam is a constantly evolving technical, economic, and security challenge for many countries. As such, a multifaceted approach is required to address its challenges. More specifically, the problem of spam offers the following challenges to consider:</p>
+<p>&gt; Spam is an expensive problem for both the Internet’s infrastructure and its users. High volumes of spam consume valuable network resources, and are a particular burden on countries with limited Internet access and bandwidth. Internet service providers (ISPs) expend great effort to manage this traffic, and end users need to be vigilant of opening spam that contains malware or scams. For mobile data subscribers and those who subscribe to metered services, the cost of receiving or unwittingly sending high numbers of spam messages can be significant. In addition, there are remediation costs to repair systems infected and/or attacked by spam-enabled malware, as well as costs associated with stolen user data.</p>
+<p>&gt; In general, the economics of spam lean heavily in favor of spammers. Spam messages cost very little to send. In fact, most of the costs are covered by message recipients, ISPs, infected users, or network operators.</p>
+<p>&gt; The nature of spam changes as new applications and ways to exchange data on the Internet are introduced. Spammers advance in their ability to use those platforms to deliver more intrusive and damaging ways to steal personal data, damage networks, and infect systems.</p>
+<p>&gt; Spam affects a wide range of Internet users; no single organization can solve the threats from spam by itself. It takes a worldwide, multistakeholder community working together to address the problem.</p>
+<p>&gt; Beyond the direct harm to users and the burden on network resources, spam also insidiously creates a lack of user trust and is viewed by some as an obstacle to the use of the Internet and e-commerce. There is also the potentially negative impact on a user’s reputation if their identity is stolen by spammers and used to send out spam.</p>
+<p>&gt; Communities involved in deploying antispam measures may be met with retaliation (e.g., victims of Distributed Denial of Service (DDoS) attacks, hacking), so it is important that members of the global antispam communities not only provide assistance on how to combat spam, but also provide technical and other support against retaliation attacks.</p>
+<h3>Guiding Principles</h3>
+<p>The Internet Society believes that a collaborative approach among all relevant stakeholders will provide the best spam-mitigation solutions and security protection. This general approach is emphasized in the Internet Society’s Collaborative Security principles, which emphasize a shared and collective responsibility among online stakeholders to achieve desired outcomes. <a title="" name="_ftnref12" href="#_ftn12"> [12] </a></p>
+<p>Governments can help combat spam by:</p>
+<p>&gt; <strong>Understanding the changing spam landscape. </strong>Spammers are constantly evolving their methods for spreading malicious email. Governments should make efforts to be up-to-date on spam techniques, trends, and evolving threats. Governments can also play a key role by supporting research into the identification, tracking, and mitigation of spam and other online threats, as well as the development of related metrics to support policy making. Governments can also encourage privacy-respecting methods for information sharing among stakeholders on real-time risks and threats.</p>
+<p>&gt; <strong>Partnering with stakeholders for success</strong>. Spam is a multifaceted problem. A range of stakeholders have a role and should be involved in developing strategies, best practices, and approaches to the implementation of antispam measures, including the development of spam- and malware-mitigation tools. Coordination and partnerships among private and public sector stakeholders should be developed in order to produce robust solutions to spam. Useful entities to engage include antispam coalitions and working groups (such as M<sup>3</sup>AAWG), computer security response teams, network operators, ISPs and online service providers, the Internet technical community, business and consumer advocacy groups, civil society, and others with an interest in combatting spam, malware, and other malicious online activities.</p>
+<p>&gt; <strong>Enacting appropriate antispam legislation and enforcement measures.</strong> As previously noted, antispam legislation, strong consumer protection laws, and strong enforcement measures can help deter offending players and reduce the amount of spam sent and received in a country. <a title="" name="_ftnref13" href="#_ftn13"> [13]</a>&nbsp;Government agencies charged with enforcing spam laws and regulations should be well-resourced, publicize the outcomes of enforcement measures, and make it easy for Internet users to report problematic spam and malware distribution.</p>
+<p>&gt; <strong>Collaborating with international counterparts.</strong> Spam is a cross-border problem. Collaboration with government counterparts around the world in antispam efforts, including international enforcement actions, is critical to successfully addressing global spam proliferation.</p>
+<p>&gt; <strong>Educating and empowering citizens. </strong>Governments should support public- and private-sector initiatives that educate Internet users on how to recognize and protect themselves against spam and other online threats. Internet users also should be aware of their legal right to seek remedies for loss or damage caused by illegal spam and other malicious online activities.</p>
+<h3>Additional Resources</h3>
+<p>The Internet Society has published a number of papers and content related to this issue. These are available for free download on the Internet Society website.</p>
+<p>&gt; Internet Society Anti-Spam Toolkit, <a href="http://www.internetsociety.org/spamtoolkit">www.internetsociety.org/spamtoolkit</a>.</p>
+<p>&gt; Internet Society Spam and Online Threats (e-learning course), http://www.internetsociety.org/what-we-do/inforum-learn-online/inforum-course-spam-and-online-threats.</p>
+<p>&gt; A Short Guide to Spam, <a href="http://internetsociety.org/spam/short-guide-spam">http://internetsociety.org/spam/short-guide-spam</a>.</p>
+<p>&gt; A History of Spam, <a href="http://www.internetsociety.org/doc/history-spam">http://www.internetsociety.org/doc/history-spam</a>.</p>
+<p>&gt; <em>Combating Spam: Policy, Technical and Industry Approaches,</em> <a href="http://www.internetsociety.org/doc/combating-spam-policy-technical-and-industry-approaches">http://www.internetsociety.org/doc/combating-spam-policy-technical-and-industry-approaches</a>.</p>
+<h3>Notes</h3>
+<p><a title="" name="_ftn1" href="#_ftnref1"> [1] </a> Cisco Systems, SenderBase real-time threat monitoring system, http://www.senderbase.org.</p>
+<p><a title="" name="_ftn2" href="#_ftnref2"> [2] </a> International Telecommunications Union World Conference on International Telecommunication’s International Telecommunications Regulations Article 7, Unsolicited bulk electronic communication, <a href="http://www.itu.int/pub/S-CONF-WCIT-2012/en">http://www.itu.int/pub/S-CONF-WCIT-2012/en</a>.</p>
+<p><a title="" name="_ftn3" href="#_ftnref3"> [3] </a> Phishing generally is an attempt to acquire sensitive information such as usernames, passwords, and credit card details by masquerading as a trustworthy entity in an electronic communication.</p>
+<p><a title="" name="_ftn4" href="#_ftnref4"> [4] </a> <em>Malware</em> is a term used to refer to a variety of forms of hostile or intrusive software, including computer viruses, worms, Trojan horses, and other malicious programs that will infect the users computer with forms of executable code, scripts, active content, and other invasive software.</p>
+<p><a title="" name="_ftn5" href="#_ftnref5"> [5] </a> Ransomware is a type of malware that demands a ransom payment in order to remove it from the infected computer.</p>
+<p><a title="" name="_ftn6" href="#_ftnref6"> [6] </a> Dutch antispam law success, <a href="https://www.spamexperts.com/about/news/dutch-anti-spam-law-has-success">https://www.spamexperts.com/about/news/dutch-anti-spam-law-has-success</a>.</p>
+<p><a title="" name="_ftn7" href="#_ftnref7"> [7] </a> London Action Plan, <a href="http://londonactionplan.org">http://londonactionplan.org</a>.</p>
+<p><a title="" name="_ftn8" href="#_ftnref8"> [8] </a> Messaging, Malware, and Mobile Anti-Abuse Working Group (M<sup>3</sup>AAWG) information, <a href="https://www.maawg.org/published-documents">https://www.maawg.org/published-documents</a>.</p>
+<p><a title="" name="_ftn9" href="#_ftnref9"> [9] </a> In June 2015, M<sup>3</sup>AAWG and LAP published Operation Safety-Net: Best Practices to address online, mobile and telephony threats, https://www.m3aawg.org/sites/default/files/M3AAWG_LAP-79652_IC_Operation-Safety-Net_2-BPs2015-06.pdf.</p>
+<p><a title="" name="_ftn10" href="#_ftnref10"> [10] </a> Spamhaus Project information: https://www.spamhaus.org/.</p>
+<p><a title="" name="_ftn11" href="#_ftnref11"> [11] </a> Verizon Corporation’s <em>2015 Data Breach Investigations Report,</em> <a href="http://www.verizonenterprise.com/resources/reports/rp_data-breach-investigation-report-2015-insider_en_xg.pdf">http://www.verizonenterprise.com/resources/reports/rp_data-breach-investigation-report-2015-insider_en_xg.pdf</a>.</p>
+<p><a title="" name="_ftn12" href="#_ftnref12"> [12] </a> Internet Society’s Collaborative Security Principles, <a href="http://www.internetsociety.org/collaborativesecurity">http://www.internetsociety.org/collaborativesecurity</a>.</p>
+<p><a title="" name="_ftn13" href="#_ftnref13"> [13] </a> A comprehensive source for tracking antispam legislation is available at <a href="http://www.spamlaws.com">http://www.spamlaws.com</a>. Links to several national legislative approaches are also located in the Internet Society’s Spam Took Kit at http://www.internetsociety.org/spamtoolkit.</p>
+</div></div></div>  </div>
+
+  
+  
+</article>  </div>
+</div>
+  </div>
+			</div></section> <!-- end main content -->
+						
+    			<aside id="aside-right" role="complementary">  <div class="region region-sidebar-second">
+    <div id="block-block-21" class="block block-block block-button">
+
+    
+  <div class="content">
+    <p><a href="https://www.internetsociety.org/get-involved">Become a Member</a></p>
+  </div>
+</div>
+<div id="block-views-find-out-more-block" class="block block-views simple-white">
+
+    <h2>Find out More</h2>
+  
+  <div class="content">
+    <div class="view view-find-out-more view-id-find_out_more view-display-id-block related-links view-dom-id-e46744401724abb5520042e4b7cf4472">
+        
+  
+  
+      <div class="view-content">
+          <ul class="menu">          <li class="views-row views-row-1 views-row-odd views-row-first views-row-last leaf">  
+  <div class="views-field views-field-field-link">        <div class="field-content"><a href="https://www.internetsociety.org/policybriefs/">Policy Briefs</a></div>  </div></li>
+      </ul>    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+</div>
+<div id="block-views-issues-block-5" class="block block-views simple-white">
+
+    <h2>Related to this theme</h2>
+  
+  <div class="content">
+    <div class="view view-issues view-id-issues view-display-id-block_5 view-dom-id-0392ee8dfde14927fc2783e112c91f31">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/blog/development/2014/04/partners-fighting-spam">Partners in Fighting Spam</a></span>  </div>  
+  <div class="views-field views-field-field-date">        <div class="field-content"></div>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/blog/public-policy/2015/04/we-need-your-vote">We Need Your Vote!</a></span>  </div>  
+  <div class="views-field views-field-field-date">        <div class="field-content"></div>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/blog/2012/10/indian-internet-governance-conference-multistakeholder-success-story">Indian Internet Governance Conference:  A Multistakeholder Success Story</a></span>  </div>  
+  <div class="views-field views-field-field-date">        <div class="field-content"></div>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/iesg-approves-publication-anti-spam-mechanism-experimental-rfcs">IESG approves publication of Anti-Spam mechanism as experimental RFCs</a></span>  </div>  
+  <div class="views-field views-field-field-date">        <div class="field-content"><span class="date-display-single">29 June 2005</span></div>  </div>  </div>
+  <div class="views-row views-row-5 views-row-odd views-row-last">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/taking-another-look-spam-problem-john-c-klensin">Taking Another Look at the Spam Problem By John C. Klensin</a></span>  </div>  
+  <div class="views-field views-field-field-date">        <div class="field-content"><span class="date-display-single">01 December 2005</span></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+</div>
+<div id="block-locale-language--2" class="block block-locale simple-white">
+
+    
+  <div class="content">
+    <ul class="language-switcher-locale-url"><li class="ar first"><span class="language-link locale-untranslated" xml:lang="ar" lang="ar">العربية</span></li>
+<li class="zh-hans"><span class="language-link locale-untranslated" xml:lang="zh-hans" lang="zh-hans">简体中文</span></li>
+<li class="en active"><a href="/policybriefs/spam" class="language-link active" xml:lang="en" lang="en">English</a></li>
+<li class="fr"><span class="language-link locale-untranslated" xml:lang="fr" lang="fr">Français</span></li>
+<li class="ru"><span class="language-link locale-untranslated" xml:lang="ru" lang="ru">Русский</span></li>
+<li class="es"><span class="language-link locale-untranslated" xml:lang="es" lang="es">Español</span></li>
+<li class="ur last"><span class="language-link locale-untranslated" xml:lang="ur" lang="ur">اردو</span></li>
+</ul>  </div>
+</div>
+<div id="block-block-97" class="block block-block reset">
+
+    
+  <div class="content">
+    <div class="rtecenter" style="border: 1px solid #d3d3d3; background-color: #ffffff; padding: 0px;">
+<div><img style="width: 80px; height: 15px; margin-top: 10px; margin-bottom: 10px;" src="/sites/default/files/Follow%20Us.jpg" alt="Follow Us"></div>
+<div class="follow-inner"><a title="Join our many followers on Facebook" href="http://www.facebook.com/InternetSociety"><img style="width: 30px; height: 30px;" src="/sites/default/files/Buttons-Facebook.png" alt="Follow us on Facebook"></a>&nbsp; &nbsp;&nbsp;<a href="http://twitter.com/internetsociety"><img style="width: 30px; height: 30px;" src="/sites/default/files/Buttons-Twitter2.png" alt="Follow us on Twitter"></a>&nbsp; &nbsp;&nbsp;<a href="http://www.linkedin.com/company/internet-society"><img style="width: 30px; height: 30px;" src="/sites/default/files/Buttons-Linkedin.png" alt="Follow us on Linkedin"></a>&nbsp; &nbsp;&nbsp;<a href="http://www.youtube.com/InternetSocietyVideo"><img style="width: 30px; height: 30px;" src="/sites/default/files/Button-YouTube.png" alt="Go to our Youtube channel"></a>&nbsp;&nbsp; &nbsp;<a href="http://www.scoop.it/u/internet-society"><img style="width: 30px; height: 30px;" src="/sites/default/files/Button-Scoopit-InternetSociety-colors.png" alt="Follow our Scoopit feed"></a></div>
+<div>&nbsp;</div>
+</div>
+  </div>
+</div>
+  </div>
+</aside> <!-- end aside-right -->					
+</div><div class="clear"></div></div><!-- end container -->
+<footer id="footer">  <div class="region region-footer">
+    <div id="block-menu-menu-footer" class="block block-menu">
+
+    
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/who-we-are/contact-us" title="Contact Us">Contact Us</a></li>
+<li class="leaf"><a href="/internet-society-statement-privacy" title="Privacy">Privacy</a></li>
+<li class="leaf"><a href="/internet-society-comment-policy">Comment Policy</a></li>
+<li class="leaf"><a href="/styleguide" title="Identity Guidelines">Identity Guidelines</a></li>
+<li class="leaf"><a href="/rss" title="RSS">RSS</a></li>
+<li class="leaf"><a href="/site-map">Sitemap</a></li>
+<li class="leaf"><a href="/publications/ietf-journal/glossary" title="Glossary">Glossary</a></li>
+<li class="last leaf"><a href="/get-involved/spread-word/sharing-our-content" title="Share Our Content">Share Our Content</a></li>
+</ul>  </div>
+</div>
+<div id="block-block-1" class="block block-block reset">
+
+    
+  <div class="content">
+    <div class="content">
+<div><a href="/get-involved/spread-word/sharing-our-content" target="_blank">Copyright © 2015 Internet Society</a> | <a href="mailto:isoc@isoc.org">isoc@isoc.org</a></div>
+<div>&nbsp;</div>
+<div>1775 Wiehle Avenue, Suite 201, Reston, VA 20190-5108 U.S.A. +1-703-439-2120</div>
+<div>Galerie Jean-Malbuisson 15, CH-1204 Geneva, Switzerland +41 22 807 1444</div>
+</div>
+<p>&nbsp;</p>
+  </div>
+</div>
+  </div>
+</footer> <!-- end footer -->
+  
+</body>
+
+</html>

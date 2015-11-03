@@ -1,0 +1,502 @@
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+
+<head>
+
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://www.internetsociety.org/sites/all/themes/isoc/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="shortlink" href="/node/475828" />
+<link rel="canonical" href="/policybriefs/internetgovernance" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+
+  <title>Policy Brief: Internet Governance | Internet Society</title>
+
+  <style type="text/css" media="all">
+@import url("http://www.internetsociety.org/modules/system/system.base.css?nwxq40");
+@import url("http://www.internetsociety.org/modules/system/system.menus.css?nwxq40");
+@import url("http://www.internetsociety.org/modules/system/system.messages.css?nwxq40");
+@import url("http://www.internetsociety.org/modules/system/system.theme.css?nwxq40");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.internetsociety.org/sites/all/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.core.min.css?nwxq40");
+@import url("http://www.internetsociety.org/sites/all/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.theme.min.css?nwxq40");
+@import url("http://www.internetsociety.org/sites/all/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.menu.min.css?nwxq40");
+@import url("http://www.internetsociety.org/sites/all/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.autocomplete.min.css?nwxq40");
+@import url("http://www.internetsociety.org/sites/all/libraries/mediaelement/build/mediaelementplayer.min.css?nwxq40");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.internetsociety.org/sites/all/modules/contrib/comment_notify/comment_notify.css?nwxq40");
+@import url("http://www.internetsociety.org/modules/aggregator/aggregator.css?nwxq40");
+@import url("http://www.internetsociety.org/modules/comment/comment.css?nwxq40");
+@import url("http://www.internetsociety.org/sites/all/modules/contrib/date/date_api/date.css?nwxq40");
+@import url("http://www.internetsociety.org/sites/all/modules/contrib/date/date_popup/themes/datepicker.1.7.css?nwxq40");
+@import url("http://www.internetsociety.org/sites/all/modules/contrib/date/date_repeat_field/date_repeat_field.css?nwxq40");
+@import url("http://www.internetsociety.org/modules/field/theme/field.css?nwxq40");
+@import url("http://www.internetsociety.org/sites/all/modules/contrib/mollom/mollom.css?nwxq40");
+@import url("http://www.internetsociety.org/modules/node/node.css?nwxq40");
+@import url("http://www.internetsociety.org/modules/search/search.css?nwxq40");
+@import url("http://www.internetsociety.org/modules/user/user.css?nwxq40");
+@import url("http://www.internetsociety.org/sites/all/modules/contrib/views/css/views.css?nwxq40");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.internetsociety.org/sites/all/modules/contrib/ctools/css/ctools.css?nwxq40");
+@import url("http://www.internetsociety.org/sites/all/modules/custom/editorial_calendar/editorial_calendar.css?nwxq40");
+@import url("http://www.internetsociety.org/sites/all/modules/contrib/lightbox2/css/lightbox.css?nwxq40");
+@import url("http://www.internetsociety.org/sites/all/modules/contrib/rate/rate.css?nwxq40");
+@import url("http://www.internetsociety.org/sites/all/modules/contrib/shorten/shortener/shortener.css?nwxq40");
+@import url("http://www.internetsociety.org/sites/all/modules/contrib/tagclouds/tagclouds.css?nwxq40");
+@import url("http://www.internetsociety.org/sites/all/modules/contrib/views_slideshow_xtra/views_slideshow_xtra.css?nwxq40");
+@import url("http://www.internetsociety.org/modules/locale/locale.css?nwxq40");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.internetsociety.org/sites/all/themes/isoc/css/html-reset.css?nwxq40");
+@import url("http://www.internetsociety.org/sites/all/themes/isoc/css/master.css?nwxq40");
+@import url("http://www.internetsociety.org/sites/all/themes/isoc/css/isoc_ie.css?nwxq40");
+</style>
+<style type="text/css" media="print">
+@import url("http://www.internetsociety.org/sites/all/themes/isoc/css/print.css?nwxq40");
+</style>
+<style type="text/css" media="screen and (min-width: 760px) and (max-width: 959px)">
+@import url("http://www.internetsociety.org/sites/all/themes/isoc/css/medium.css?nwxq40");
+</style>
+<style type="text/css" media="screen and (min-width: 0px) and (max-width: 759px)">
+@import url("http://www.internetsociety.org/sites/all/themes/isoc/css/small.css?nwxq40");
+</style>
+
+  <script type="text/javascript" src="http://www.internetsociety.org/sites/all/modules/contrib/jquery_update/replace/jquery/1.7/jquery.min.js?v=1.7.2"></script>
+<script type="text/javascript" src="http://www.internetsociety.org/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://www.internetsociety.org/misc/drupal.js?nwxq40"></script>
+<script type="text/javascript" src="http://www.internetsociety.org/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.core.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="http://www.internetsociety.org/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.widget.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="http://www.internetsociety.org/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.mouse.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="http://www.internetsociety.org/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.draggable.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="http://www.internetsociety.org/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.position.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="http://www.internetsociety.org/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.menu.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="http://www.internetsociety.org/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.autocomplete.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="http://www.internetsociety.org/sites/all/libraries/mediaelement/build/mediaelement-and-player.min.js?v=2.1.6"></script>
+<script type="text/javascript" src="http://www.internetsociety.org/sites/all/modules/contrib/jquery_update/replace/ui/external/jquery.cookie.js?v=67fb34f6a866c40d0570"></script>
+<script type="text/javascript" src="http://www.internetsociety.org/sites/all/modules/contrib/jquery_update/replace/misc/jquery.form.min.js?v=2.69"></script>
+<script type="text/javascript" src="http://www.internetsociety.org/misc/ajax.js?v=7.41"></script>
+<script type="text/javascript" src="http://www.internetsociety.org/sites/all/modules/contrib/jquery_update/js/jquery_update.js?v=0.0.1"></script>
+<script type="text/javascript" src="http://www.internetsociety.org/sites/all/modules/contrib/comment_notify/comment_notify.js?nwxq40"></script>
+<script type="text/javascript" src="http://www.internetsociety.org/sites/all/modules/contrib/gss/scripts/autocomplete.js?nwxq40"></script>
+<script type="text/javascript" src="http://www.internetsociety.org/misc/progress.js?v=7.41"></script>
+<script type="text/javascript" src="http://www.internetsociety.org/sites/all/modules/contrib/lightbox2/js/lightbox.js?nwxq40"></script>
+<script type="text/javascript" src="http://www.internetsociety.org/sites/all/modules/contrib/mediaelement/mediaelement.js?nwxq40"></script>
+<script type="text/javascript" src="http://www.internetsociety.org/sites/all/modules/contrib/shorten/shortener/shortener.js?nwxq40"></script>
+<script type="text/javascript" src="http://www.internetsociety.org/sites/all/modules/contrib/views_slideshow_xtra/views_slideshow_xtra.js?nwxq40"></script>
+<script type="text/javascript" src="http://www.internetsociety.org/sites/all/modules/contrib/views/js/base.js?nwxq40"></script>
+<script type="text/javascript" src="http://www.internetsociety.org/sites/all/modules/contrib/views/js/ajax_view.js?nwxq40"></script>
+<script type="text/javascript" src="http://www.internetsociety.org/sites/all/modules/contrib/google_analytics/googleanalytics.js?nwxq40"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1978561-7", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://use.typekit.com/rnx8nlh.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+try{Typekit.load();}catch(e){}
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.internetsociety.org/sites/all/themes/isoc/js/dropdown.js?nwxq40"></script>
+<script type="text/javascript" src="http://www.internetsociety.org/sites/all/themes/isoc/js/Drupal.behaviors.navigationAccessKeys.js?nwxq40"></script>
+<script type="text/javascript" src="http://www.internetsociety.org/sites/all/themes/isoc/js/operatabs.js?nwxq40"></script>
+<script type="text/javascript" src="http://www.internetsociety.org/sites/all/themes/isoc/js/selectnav.min.js?nwxq40"></script>
+<script type="text/javascript" src="http://www.internetsociety.org/sites/all/themes/isoc/js/scripts.js?nwxq40"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"isoc","theme_token":"tR-N3LNbUgsH_Um9FrVtKlCnT8adb7L6zRvywEnUVIM","jquery_version":"1.7","js":{"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.mouse.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.draggable.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.position.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.menu.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.autocomplete.min.js":1,"sites\/all\/libraries\/mediaelement\/build\/mediaelement-and-player.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/misc\/jquery.form.min.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/contrib\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/modules\/contrib\/comment_notify\/comment_notify.js":1,"sites\/all\/modules\/contrib\/gss\/scripts\/autocomplete.js":1,"misc\/progress.js":1,"sites\/all\/modules\/contrib\/lightbox2\/js\/lightbox.js":1,"sites\/all\/modules\/contrib\/mediaelement\/mediaelement.js":1,"sites\/all\/modules\/contrib\/shorten\/shortener\/shortener.js":1,"sites\/all\/modules\/contrib\/views_slideshow_xtra\/views_slideshow_xtra.js":1,"sites\/all\/modules\/contrib\/views\/js\/base.js":1,"sites\/all\/modules\/contrib\/views\/js\/ajax_view.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1,"http:\/\/use.typekit.com\/rnx8nlh.js":1,"1":1,"sites\/all\/themes\/isoc\/js\/dropdown.js":1,"sites\/all\/themes\/isoc\/js\/Drupal.behaviors.navigationAccessKeys.js":1,"sites\/all\/themes\/isoc\/js\/operatabs.js":1,"sites\/all\/themes\/isoc\/js\/selectnav.min.js":1,"sites\/all\/themes\/isoc\/js\/scripts.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.menu.css":1,"misc\/ui\/jquery.ui.autocomplete.css":1,"sites\/all\/libraries\/mediaelement\/build\/mediaelementplayer.min.css":1,"sites\/all\/modules\/contrib\/comment_notify\/comment_notify.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/contrib\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/custom\/editorial_calendar\/editorial_calendar.css":1,"sites\/all\/modules\/contrib\/lightbox2\/css\/lightbox.css":1,"sites\/all\/modules\/contrib\/rate\/rate.css":1,"sites\/all\/modules\/contrib\/shorten\/shortener\/shortener.css":1,"sites\/all\/modules\/contrib\/tagclouds\/tagclouds.css":1,"sites\/all\/modules\/contrib\/views_slideshow_xtra\/views_slideshow_xtra.css":1,"modules\/locale\/locale.css":1,"sites\/all\/themes\/isoc\/css\/html-reset.css":1,"sites\/all\/themes\/isoc\/css\/master.css":1,"sites\/all\/themes\/isoc\/css\/isoc_ie.css":1,"sites\/all\/themes\/isoc\/css\/print.css":1,"sites\/all\/themes\/isoc\/css\/medium.css":1,"sites\/all\/themes\/isoc\/css\/small.css":1}},"gss":{"key":"015267653312545538371:dihpk_sjx-e"},"lightbox2":{"rtl":"0","file_path":"\/(\\w\\w\/)public:\/","default_image":"\/sites\/all\/modules\/contrib\/lightbox2\/images\/brokenimage.jpg","border_size":10,"font_color":"000","box_color":"fff","top_position":"","overlay_opacity":"0.8","overlay_color":"000","disable_close_click":true,"resize_sequence":0,"resize_speed":400,"fade_in_speed":400,"slide_down_speed":600,"use_alt_layout":false,"disable_resize":false,"disable_zoom":false,"force_show_nav":false,"show_caption":true,"loop_items":false,"node_link_text":"View Image Details","node_link_target":false,"image_count":"Image !current of !total","video_count":"Video !current of !total","page_count":"Page !current of !total","lite_press_x_close":"press \u003Ca href=\u0022#\u0022 onclick=\u0022hideLightbox(); return FALSE;\u0022\u003E\u003Ckbd\u003Ex\u003C\/kbd\u003E\u003C\/a\u003E to close","download_link_text":"","enable_login":false,"enable_contact":false,"keys_close":"c x 27","keys_previous":"p 37","keys_next":"n 39","keys_zoom":"z","keys_play_pause":"32","display_image_size":"original","image_node_sizes":"()","trigger_lightbox_classes":"","trigger_lightbox_group_classes":"","trigger_slideshow_classes":"","trigger_lightframe_classes":"","trigger_lightframe_group_classes":"","custom_class_handler":0,"custom_trigger_classes":"","disable_for_gallery_lists":true,"disable_for_acidfree_gallery_lists":true,"enable_acidfree_videos":true,"slideshow_interval":5000,"slideshow_automatic_start":true,"slideshow_automatic_exit":true,"show_play_pause":true,"pause_on_next_click":false,"pause_on_previous_click":true,"loop_slides":false,"iframe_width":600,"iframe_height":400,"iframe_border":1,"enable_video":false},"mediaelementAll":true,"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:12094a88b67377483fadb0f090d050e3":{"view_name":"issues","view_display_id":"block_5","view_args":"1390+1762\/475828","view_path":"node\/475828","view_base_path":null,"view_dom_id":"12094a88b67377483fadb0f090d050e3","pager_element":0}}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/policybriefs\/internetgovernance":true}});
+//--><!]]>
+</script>
+
+<!--<link rel="stylesheet" href="/sites/all/themes/isoc/css/handheld.css" media="handheld"/>-->
+<!--[if IE]><script src="/sites/all/themes/isoc/js/html5.js"></script><![endif]-->
+<!--[if (gte IE 6)&(lte IE 8)]>
+  <script type="text/javascript" src="/sites/all/themes/isoc/js/selectivizr-1.0.2/selectivizr-min.js"></script>
+  <link rel="stylesheet" href="/sites/all/themes/isoc/css/ie.css" />
+<![endif]-->
+</head>
+
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-475828 node-type-document i18n-en" >
+
+ <div id="skip-link">
+
+	<a href="#nav" class="element-invisible element-focusable">Jump to Navigation</a>
+
+	<a href="#columns" class="element-invisible element-focusable">Jump to Content</a>
+
+	<a href="/sitemap" class="element-invisible element-focusable">Jump to Site Map</a>
+
+ </div>
+
+  
+  <div id="headerutility">  <div class="region region-headerutility">
+    <div id="block-locale-language" class="block block-locale simple-white">
+
+    
+  <div class="content">
+    <ul class="language-switcher-locale-url"><li class="ar first"><span class="language-link locale-untranslated" xml:lang="ar" lang="ar">العربية</span></li>
+<li class="zh-hans"><span class="language-link locale-untranslated" xml:lang="zh-hans" lang="zh-hans">简体中文</span></li>
+<li class="en active"><a href="/policybriefs/internetgovernance" class="language-link active" xml:lang="en" lang="en">English</a></li>
+<li class="fr"><span class="language-link locale-untranslated" xml:lang="fr" lang="fr">Français</span></li>
+<li class="ru"><span class="language-link locale-untranslated" xml:lang="ru" lang="ru">Русский</span></li>
+<li class="es"><span class="language-link locale-untranslated" xml:lang="es" lang="es">Español</span></li>
+<li class="ur last"><span class="language-link locale-untranslated" xml:lang="ur" lang="ur">اردو</span></li>
+</ul>  </div>
+</div>
+<div id="block-menu-menu-header-menu" class="block block-menu">
+
+    
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/" title="">Home</a></li>
+<li class="leaf"><a href="http://connect.internetsociety.org?utm_source=Top%20link&amp;utm_medium=site&amp;utm_campaign=Main%20website%20top%20link" title="">Connect Login</a></li>
+<li class="leaf"><a href="http://www.internetsociety.org/get-involved" title="">Become a Member</a></li>
+<li class="leaf"><a href="/find-chapter" title="Find a Chapter">Find a Chapter</a></li>
+<li class="leaf"><a href="/blog">Blog</a></li>
+<li class="last leaf"><a href="/news" title="">News</a></li>
+</ul>  </div>
+</div>
+  </div>
+<div class="clear"></div></div> <!-- header utility -->	
+<header id="header">
+    <div class="region region-header">
+    <div id="block-search-form" class="block block-search" role="search">
+
+    
+  <div class="content">
+    <form class="gss" action="/policybriefs/internetgovernance" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-cvfAQB9hdIWH1QHeghssKciCB4hrT_qhwNh0HEp_6g4" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+  </div>
+  <h1>  <a href="/" title="Internet Society - Go to Home Page">
+  <img src="http://www.internetsociety.org/sites/default/files/logo-new.png" class="logo" alt="Go to ISOC Home" >
+  </a><span class="offscreen">Internet Society</span></h1>
+  <div class="clear"></div>
+</header> <!-- #header -->
+<nav id="nav" title="Internet Society Site Navigation"><h2 class="offscreen">Internet Society Site Navigation</h2><div class="smallmenu"><a href="#">MENU +</a></div>  <div class="region region-navigation">
+    <div id="block-system-main-menu" class="block block-system block-menu">
+
+    
+  <div class="content">
+    <ul class="menu"><li class="first expanded"><a href="/who-we-are" title="Who We Are">Who We Are</a><ul class="menu"><li class="first collapsed"><a href="/who-we-are/mission" title="Mission">Mission</a></li>
+<li class="leaf"><a href="/who-we-are/what-we-do">What We Do</a></li>
+<li class="leaf"><a href="/history" title="The History of the Internet Society">Our History</a></li>
+<li class="leaf"><a href="/who-we-are/our-global-approach" title="Our Global Approach">Our Global Approach</a></li>
+<li class="leaf"><a href="/who-we-are/regional-bureaus" title="Our Regional Bureaus">Our Regional Bureaus</a></li>
+<li class="leaf"><a href="/who-we-are/our-members" title="Our Members">Our Members</a></li>
+<li class="collapsed"><a href="/who-we-are/chapters">Chapters</a></li>
+<li class="collapsed"><a href="/who-we-are/internet-society-special-interest-groups-sig">Special Interest Groups (SIG)</a></li>
+<li class="collapsed"><a href="/who-we-are/our-community-and-partners" title="Related and Partner Organisations">Our Community and Partners</a></li>
+<li class="collapsed"><a href="/who-we-are/organisation-member-advisory-council-omac" title="Advisory Council">Organisation Member Advisory Council</a></li>
+<li class="collapsed"><a href="/who-we-are/chapters-advisory-council" title="Chapters Advisory Council">Chapters Advisory Council</a></li>
+<li class="collapsed"><a href="/who-we-are/board-trustees" title="">Board of Trustees</a></li>
+<li class="collapsed"><a href="/who-we-are/organization-reports-and-policies" title="Organization Reports &amp; Policies">Organization Reports &amp; Policies</a></li>
+<li class="leaf"><a href="/who-we-are/career-opportunities" title="Career Opportunities">Career Opportunities</a></li>
+<li class="leaf"><a href="/who-we-are/staff-and-advisors" title="Staff and Advisors">Staff and Advisors</a></li>
+<li class="last collapsed"><a href="/who-we-are/contact-us" title="Contact Us">Contact Us</a></li>
+</ul></li>
+<li class="expanded"><a href="/what-we-do" title="What We Do">What We Do</a><ul class="menu"><li class="first leaf"><a href="/what-we-do/why-internet-matters" title="Why It Matters">Why It Matters</a></li>
+<li class="collapsed"><a href="/what-we-do/how-we-work" title="How We Work">How We Work</a></li>
+<li class="collapsed"><a href="/what-we-do/where-we-work" title="Where We Work">Where We Work</a></li>
+<li class="collapsed"><a href="/what-we-do/internet-issues" title="Issues">Issues</a></li>
+<li class="leaf"><a href="http://www.internetsociety.org/deploy360/" title="Deploy360">Deploy360 Programme</a></li>
+<li class="collapsed"><a href="/development" title="Development">Development</a></li>
+<li class="collapsed"><a href="/what-we-do/public-policy">Public Policy</a></li>
+<li class="collapsed"><a href="/itm">Internet Technology Matters</a></li>
+<li class="collapsed"><a href="/what-we-do/inforum-learn-online" title="Online Courses - Inforum">Online Courses - Inforum</a></li>
+<li class="collapsed"><a href="/what-we-do/education-and-leadership-programmes" title="Education and Leadership Programmes">Leadership Programmes</a></li>
+<li class="collapsed"><a href="/what-we-do/grants-awards" title="Grants &amp; Awards">Grants &amp; Awards</a></li>
+<li class="last leaf"><a href="/what-we-do/impacts" title="Impacts">Impacts</a></li>
+</ul></li>
+<li class="expanded"><a href="/internet-events" title="Events">Events</a><ul class="menu"><li class="first collapsed"><a href="/events/afpif" title="African Peering and Interconnection Forum (AfPIF)">AfPIF</a></li>
+<li class="collapsed"><a href="/events/asia-internet-symposium">Asia Internet Symposium</a></li>
+<li class="collapsed"><a href="/events/event-calendar">Events Calendar</a></li>
+<li class="leaf"><a href="/events/ietf-meetings" title="IETF Meetings">IETF Meetings</a></li>
+<li class="collapsed"><a href="/events/inet-conferences" title="INET Conferences">INET Conferences</a></li>
+<li class="leaf"><a href="https://www.internetsociety.org/intercommunity2015/" title="">InterCommunity</a></li>
+<li class="leaf"><a href="http://www.internetsociety.org/igf" title="">Internet Governance Forum</a></li>
+<li class="leaf"><a href="/events/ion-conferences" title="ION">ION</a></li>
+<li class="collapsed"><a href="/events/ndss-symposium" title="NDSS Symposium">NDSS Symposium</a></li>
+<li class="last collapsed"><a href="/events/workshops" title="Workshops">Workshops</a></li>
+</ul></li>
+<li class="expanded"><a href="/publications" title="Publications">Publications</a><ul class="menu"><li class="first leaf"><a href="/who-we-are/organization-reports-and-policies/annual-review" title="">Annual Review</a></li>
+<li class="leaf"><a href="/publications/ietf-journal" title="">IETF Journal</a></li>
+<li class="leaf"><a href="/publications/isp-column">ISP Column</a></li>
+<li class="leaf"><a href="/publications/member-briefings">Member Briefings</a></li>
+<li class="leaf"><a href="/newsletter" title="Monthly Newsletter">Newsletter</a></li>
+<li class="leaf"><a href="/publications/internet-measurement-project">Internet Measurement Project</a></li>
+<li class="leaf"><a href="/publications/global-internet-report">Global Internet Report</a></li>
+<li class="last leaf"><a href="/publications/document-library" title="Document Library">Document Library</a></li>
+</ul></li>
+<li class="expanded"><a href="/internet" title="The Internet">The Internet</a><ul class="menu"><li class="first collapsed"><a href="/internet/what-internet" title="What Is the Internet?">What Is the Internet?</a></li>
+<li class="collapsed"><a href="/internet/how-it-works" title="How it Works">How it Works</a></li>
+<li class="leaf"><a href="/internet/who-makes-it-work" title="Who Makes it Work">Who Makes it Work</a></li>
+<li class="collapsed"><a href="/internet/how-internet-evolving" title="How Is the Internet Evolving?">How Is the Internet Evolving?</a></li>
+<li class="last leaf"><a href="/internet/global-internet-user-survey-2012" title="Global Internet User Survey 2012">Global Internet User Survey</a></li>
+</ul></li>
+<li class="expanded"><a href="/get-involved" title="Get Involved">Get Involved</a><ul class="menu"><li class="first leaf"><a href="/get-involved/attend-event">Attend an Event</a></li>
+<li class="leaf"><a href="/get-involved/join-community" title="Join the Community">Join the Community</a></li>
+<li class="collapsed"><a href="/get-involved/individuals" title="Individuals">Individuals</a></li>
+<li class="collapsed"><a href="/get-involved/join-community/organisations-and-corporations" title="Organisations and Corporations">Organisations and Corporations</a></li>
+<li class="leaf"><a href="/get-involved/volunteer" title="Volunteer ">Volunteer </a></li>
+<li class="last collapsed"><a href="/get-involved/spread-word" title="Spread the Word">Spread the Word</a></li>
+</ul></li>
+<li class="last leaf"><a href="/form/donation" title="Donate">Donate</a></li>
+</ul>  </div>
+</div>
+  </div>
+<div class="clear"></div></nav>
+<!-- #nav -->
+				
+<div id="columns">
+			 	<div class="rescontainer"><section id="copy" role="main"><div class="inner">
+								<h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> » Policy Brief: Internet Governance</div>				      												<h1>Policy Brief: Internet Governance</h1>      			      			<div class="tabs"></div>      						  <div class="region region-content-above">
+    <div id="block-views-document-viewer-block-5" class="block block-views">
+
+    
+  <div class="content">
+    <div class="view view-document-viewer view-id-document_viewer view-display-id-block_5 view-dom-id-b50180e091aa88c90cef1e9953fab500">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <span class="views-field views-field-field-image">        <span class="field-content"><a href="http://www.internetsociety.org/sites/default/files/ISOC-PolicyBrief-InternetGovernance-20151030_0.pdf" class="doc-img"><img src="http://www.internetsociety.org/sites/default/files/styles/library/public/ISOC-PolicyBrief-InternetGovernance.JPG?itok=cWX1Qy0U" width="120" height="170" alt="" /></a></span>  </span>  
+  <span class="views-field views-field-field-fileupload-1">        <span class="field-content"><a href="http://www.internetsociety.org/sites/default/files/ISOC-PolicyBrief-InternetGovernance-20151030_0.pdf">
+ 
+<span>Download File</span></a></span>  </span>  
+  <span class="views-field views-field-field-date">        <span class="field-content"><br><br><strong>Date:</strong> <span class="date-display-single">30 Oct 2015</span></span>  </span>  
+  <span class="views-field views-field-field-typedoc">        <span class="field-content"><br><strong>Document Type:</strong> Briefing Papers</span>  </span>  
+  <span class="views-field views-field-field-tags">        <span class="field-content"><br><strong>Tags:</strong> <a href="/tags/internet-governance-0">Internet Governance</a></span>  </span>  
+  <span class="views-field views-field-field-tags-1">    <span class="views-label views-label-field-tags-1">,</span>    <span class="field-content"><a href="/tags/public-policy">Public Policy</a></span>  </span>  
+  <div class="views-field views-field-nothing-2">        <span class="field-content"><hr></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+</div>
+  </div>
+      					      	  <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+      <article id="node-475828" class="node node-document clearfix">
+
+      
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><h2>Internet Governance</h2>
+<p><em>An Internet Society Public Policy Briefing</em></p>
+<blockquote><p>The term <em>Internet governance</em>&nbsp;refers to the processes that impact how the Internet is managed. The historic and future success of the Internet as an open and trusted platform for innovation and empowerment depends on a decentralized, collaborative, and multistakeholder approach to Internet governance.</p>
+</blockquote>
+<h3>Introduction</h3>
+<p>How the Internet is governed has been a question of considerable debate since its earliest days. Indeed, how diverse sets of stakeholders collaborate to manage this important global resource has an impact on the nature of the Internet as a trusted global platform for innovation, creativity, and freedom of expression. The Internet is a decentralized network of networks and those who rely on it help to define its policies.</p>
+<p>While the Internet evolved from a number of government-funded research projects, individuals from universities and private-sector organizations led most of its early development. Since these early beginnings, management of the Internet and global Internet resources (e.g., the Domain Name System) has relied heavily upon bottom-up coordination and direct participation by those interested in and impacted by related decisions.</p>
+<p>Over the years, this decentralized and community-driven management approach has supported the tremendous growth and innovation that has defined Internet’s success and reflects the early design choices of the technical community in the adoption and implementation of Internet standards. By 2005, what had traditionally been referred to as private, bottom-up coordination evolved into the “multistakeholder” model of Internet governance that exists today.</p>
+<h3>Key Considerations</h3>
+<p>The decentralized nature of the Internet means that no single, centralized authority governs Internet management. Instead, the Internet is governed in a decentralized, collaborative fashion that ensures that issues can be resolved at the level closest to their origin. <a title="" name="_ftnref1" href="#_ftn1"> [1]</a>&nbsp;In this context, the Internet’s system of decentralized decision-making is similar to the principle of subsidiarity, <a title="" name="_ftnref2" href="#_ftn2"> [2]</a>&nbsp;in which issues are best handled at the level consistent with where the solution is applied.</p>
+<p><strong>The early days of Internet multistakeholder governance</strong></p>
+<p>In 2003 and 2005, representatives from governments, the technical community, civil society, and the private sector came together at the United Nations World Summit on Information Society (WSIS), where they adopted the <em>Tunis Agenda for the Information Society</em> <a title="" name="_ftnref3" href="#_ftn3"><em> <strong>[3]</strong></em></a>. The <em>Tunis Agenda</em> adopted a working definition for Internet governance:</p>
+<p>“… the development and application by governments, the private sector, and civil society in their respective roles of shared principles, norms, rules, decision-making procedures, and programmes that shape the evolution and use of the Internet.”</p>
+<p>This definition recognizes the roles and responsibilities of each stakeholder group and emphasizes the importance of collaboration when seeking solutions for the benefit of Internet growth and development; it is also called the multistakeholder model. <a title="" name="_ftnref4" href="#_ftn4"> [4]</a></p>
+<p>The multistakeholder model has proven key to the development of the Internet. In addition to being increasingly adopted at an institutional level by bodies like the Organisation for Economic Co-operation and Development (OECD) and the Council of Europe, it has become a quasi-official model for discussions on a variety of issues. In areas such as security, privacy, connectivity, and human rights, it is clear that no single viewpoint can solve borderless and multidimensional issues. Instead, a more collaborative, multistakeholder approach used to tackle global Internet-related issues, such as security ones on spam and botnets, is rapidly becoming a best practice.</p>
+<p><strong>Multistakeholder collaboration at the global and local levels</strong></p>
+<p>In true collaborative spirit, a diverse set of stakeholders is working closer than ever before to address key Internet issues. This is significant as it establishes a level of inclusiveness that traditional forms of governance do not often demonstrate.</p>
+<p>More specifically, in the context of Internet governance, the manifestation of multistakeholder participation has been long proven successful in the form of the Internet Governance Forum (IGF) <a title="" name="_ftnref5" href="#_ftn5"> [5]</a>, an annual conference under the auspices of United Nations (UN). The IGF does not have decision-making power, but does have the power to encourage opinions, suggest best practices, shape discussions, and influence Internet policies at a national, regional, and international level. National and regional IGFs have flourished in the past few years and have proven useful in sharing best practices around concrete issues, including spam, the online protection of children, and Internet exchange points. They have also been useful in exposing local and regional stakeholders to Internet-related issues and empowering them with knowledge of Internet-related issues. Moreover, a common outcome of local IGFs is the development of local multistakeholder dialogues that continue after the events themselves.</p>
+<p>The multistakeholder model was adopted for the April 2014 NETmundial meeting <a title="" name="_ftnref6" href="#_ftn6"> [6]</a>&nbsp;that resulted in the <em>NETmundial Multistakeholder Statement of São Paulo</em>, a nonbinding outcome document of a bottom-up, open, and participatory process involving thousands of stakeholders from around the world.</p>
+<h3>Challenges</h3>
+<p>Internet governance is characterized by a diversity of actors, issues, and processes that interact and overlap across jurisdictions. Effective collaboration in this context needs to overcome a number of challenges.</p>
+<p><strong>Navigating decentralized processes</strong></p>
+<p>The decentralized structure of the Internet governance ecosystem implies that different issues are addressed in different places and are better resolved at a level closest to their origin,.</p>
+<p>One of the challenges of the decentralized approach is that the broad range of global, regional, and local forums in which issues are discussed requires time and resources to follow and participate. In addition to these face-to-face meetings, the multistakeholder discussions between meetings and events are often robust and require time and effort to follow through for meaningful contributions.</p>
+<p>Many stakeholder groups address this challenge by coordinating their participation in forums and initiatives. In addition, some initiatives and forums adopt open-information policies and offer avenues for remote participation. The open availability of materials and online discussions plus the possibility of remote participation helps address the challenges presented by the decentralized processes.</p>
+<p><strong>Role of governments</strong></p>
+<p>A key conversation surrounding this diverse, decentralized environment is about the role of governments. Governments have important public interest responsibilities, set policies that influence the overall Internet environment, and bring important considerations into discussions. The participation of governments in Internet governance dialogues is crucial.</p>
+<p>For example, the<em> Tunis Agenda</em> acknowledges that governments play an important role in the building of a people-centered, inclusive, and development-oriented information society. Similarly, the Working Group on Internet Governance (WGIG) identified a set of roles and responsibilities for governments ranging from oversight to fostering capacity-building and policy promoting the research and development of technologies and standards. <a title="" name="_ftnref7" href="#_ftn7"> [7] </a></p>
+<p>Two key challenges regarding the role of government are debated in the <em>Tunis Agenda</em>: the need for governments to adapt to the diversity and multiplicity of voices under the multistakeholder model and the understanding of a concept of governance that is not <em>only</em> limited to governments, but it extends to a broad range of stakeholders, including non-state actors.</p>
+<p>Some governmental bodies have embraced the multistakeholder model of Internet governance as way to develop effective, collaborative solutions to both global and local Internet challenges. Others remain less comfortable with the multistakeholder approach, however.</p>
+<p><strong>Complexity of issues</strong></p>
+<p>Internet issues can cross geographic, sectorial, and technological boundaries. Net neutrality and cybersecurity, for example, have economic, social, legal, and technical aspects, and involve actors from multiple jurisdictions. To address these issues effectively, stakeholders must possess a wide range of skills and knowledge, including the ability to collaborate with industry experts, be they policymakers, technologists, businessmen, or civil servants.</p>
+<p>Technology evolves quickly, but formal policies and legal procedures can move slowly. In addition, traditional decision-making models, such as voting, may result in decisions that are less suited to the broader set of legitimate and reasonable concerns, particularly those raised by minority interests. The pursuit of consensus ensures that all interested parties are involved in making the kind of decisions that produce effective outcomes.</p>
+<p>Consensus building has historically been the foundation for technical governance, as illustrated by the Internet Engineering Task Force (IETF) credo, “We believe in rough consensus and running code”. It is this culture that has enabled the IETF community to keep pace with technological advancements and to produce standards that facilitate the Internet’s growth. Similarly, institutions that deal with issues of public policy, such as the Internet Corporation for Assigned Names and Numbers (ICANN), have also adopted consensus as a working method.</p>
+<p>Consensus facilitates solutions that meet the diverse needs of the fast-paced Internet environment, and shifts the governance structure from top-down to bottom up.</p>
+<h3>Guiding Principles</h3>
+<p>The following are recommended guiding principles for Internet governance:</p>
+<p><strong>1 Open, inclusive, and transparent participation.</strong> The participation of interested and informed stakeholders in Internet governance processes, in their respective roles and responsibilities, is necessary to ensure that outcomes are both effective and accepted. It also ensures that interested stakeholders can directly participate in the work and have access to its results.</p>
+<p><strong>2 Consensus-based decision making.</strong> Policy-making processes should be informed by both practical experience and the individual and collective expertise of a range of stakeholders. Decisions should be reached through accountable processes that are based on consensus.</p>
+<p><strong>3 Collective stewardship and empowerment.</strong> To ensure the continued security, stability, and resilience of the Internet, governance structures and principles should be developed in an environment of strong cooperation among all stakeholders, each contributing their own skills.</p>
+<p><strong>4 Pragmatic and evidence-based approaches.</strong> Internet governance discussions, debates, and decisions must be informed by, and depend upon, objective and empirical information.</p>
+<p><strong>5 Voluntarism.</strong> In the realm of Internet technical policy development, voluntarism means that success is determined by users and the public, rather than a central authority.</p>
+<p><strong>6 Permissionless innovation.</strong> The remarkable growth of the Internet and the ensuing explosion of innovation and Internet use is a direct result of the open model of Internet connectivity and standards development. Anyone should be able to create a new application on the Internet without having to obtain approval from a central authority. Internet governance arrangement should not constrain or regulate the ability of individuals or organizations to create and use new standards, applications, or services.</p>
+<p>Today’s Internet ecosystem is based on the fundamental tenets of the Internet itself, and draws its strength from the involvement of a broad range of players employing open, transparent, and collaborative processes. Cooperation and collaboration remain essential to the Internet’s continued innovation and growth.</p>
+<h3>Additional Resources</h3>
+<p>The Internet Society has published a number of papers and additional content related to this issue. These are available for free on the Internet Society website.</p>
+<p>&gt; Internet Society Internet governance issue page, <a href="http://www.internetsociety.org/what-we-do/internet-issues/internet-governance">http://www.internetsociety.org/what-we-do/internet-issues/internet-governance</a>.</p>
+<p>&gt; Internet Governance Timeline, <a href="http://www.internetsociety.org/igtimeline">http://www.internetsociety.org/igtimeline</a>.</p>
+<p>&gt; ISOC Internet Governance Event Toolkit, <a href="http://www.internetsociety.org/blog/public-policy/2015/07/isoc-internet-governance-event-toolkit-bringing-discussions-people">http://www.internetsociety.org/blog/public-policy/2015/07/isoc-internet-governance-event-toolkit-bringing-discussions-people</a>.</p>
+<p>&gt; The History of Internet Governance, <a href="http://www.internetsociety.org/history-internet-governance">http://www.internetsociety.org/history-internet-governance</a>.</p>
+<p>&gt; Internet Development and Internet Governance in Africa, <a href="http://www.internetsociety.org/doc/internet-development-and-internet-governance-africa">http://www.internetsociety.org/doc/internet-development-and-internet-governance-africa</a>.</p>
+<h3>Notes</h3>
+<p><a title="" name="_ftn1" href="#_ftnref1"> [1]</a>&nbsp;For an overview of the entities involved in Internet management, see <em>Internet Ecosystem, </em> <a href="http://www.internetsociety.org/who-makes-internet-work-internet-ecosystem">http://www.internetsociety.org/who-makes-internet-work-internet-ecosystem</a>.</p>
+<p><a title="" name="_ftn2" href="#_ftnref2"> [2]</a>&nbsp;Subsidiarity is the principle that decisions should always be taken at the lowest possible level or closest to where they will have their effect. (Cambridge University Press, 2015, http://dictionary.cambridge.org/us/dictionary/english/subsidiarity)</p>
+<p><a title="" name="_ftn3" href="#_ftnref3"> [3]</a>&nbsp;<em>Tunis Agenda for the Information Society</em>, <a href="http://www.itu.int/wsis/docs2/tunis/off/6rev1.html">http://www.itu.int/wsis/docs2/tunis/off/6rev1.html</a>.</p>
+<p><a title="" name="_ftn4" href="#_ftnref4"> [4]</a>&nbsp;Despite having stable definitions, the terms <em>Internet governance</em> and m<em>ultistakeholderism</em> can be difficult to understand when translated into other languages because they lack an equivalent word. To support full understanding, is recommended that each mention of these terms be accompanied by a description.</p>
+<p><a title="" name="_ftn5" href="#_ftnref5"> [5]</a>&nbsp;Internet Governance Forum, <a href="http://www.intgovforum.org/cms/">http://www.intgovforum.org/cms/</a>. .</p>
+<p><a title="" name="_ftn6" href="#_ftnref6"> [6]</a>&nbsp;NETmundial, <a href="http://netmundial.br/">http://netmundial.br/</a>.</p>
+<p><a title="" name="_ftn7" href="#_ftnref7"> [7]</a>&nbsp;<em>Report of the Working Group on Internet Governance,</em> <a href="http://www.wgig.org/docs/WGIGREPORT.pdf">http://www.wgig.org/docs/WGIGREPORT.pdf</a>.</p>
+</div></div></div>  </div>
+
+  
+  
+</article>  </div>
+</div>
+  </div>
+			</div></section> <!-- end main content -->
+						
+    			<aside id="aside-right" role="complementary">  <div class="region region-sidebar-second">
+    <div id="block-block-21" class="block block-block block-button">
+
+    
+  <div class="content">
+    <p><a href="https://www.internetsociety.org/get-involved">Become a Member</a></p>
+  </div>
+</div>
+<div id="block-views-find-out-more-block" class="block block-views simple-white">
+
+    <h2>Find out More</h2>
+  
+  <div class="content">
+    <div class="view view-find-out-more view-id-find_out_more view-display-id-block related-links view-dom-id-2f92a3f98055c337e36e2794fdca4e1d">
+        
+  
+  
+      <div class="view-content">
+          <ul class="menu">          <li class="views-row views-row-1 views-row-odd views-row-first views-row-last leaf">  
+  <div class="views-field views-field-field-link">        <div class="field-content"><a href="https://www.internetsociety.org/policybriefs/">Policy Briefs</a></div>  </div></li>
+      </ul>    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+</div>
+<div id="block-views-issues-block-5" class="block block-views simple-white">
+
+    <h2>Related to this theme</h2>
+  
+  <div class="content">
+    <div class="view view-issues view-id-issues view-display-id-block_5 view-dom-id-12094a88b67377483fadb0f090d050e3">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/blog/2012/11/are-isps-new-digital-content-police">Are ISP&#039;s the new digital content police?</a></span>  </div>  
+  <div class="views-field views-field-field-date">        <div class="field-content"></div>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/blog/asia-pacific-bureau/2015/02/opening-doors-collaboration-pakistan"> Opening doors to collaboration in Pakistan   </a></span>  </div>  
+  <div class="views-field views-field-field-date">        <div class="field-content"></div>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/blog/2010/09/summary-two-interesting-workshops-day-2">Summary of two interesting workshops (Day 2)</a></span>  </div>  
+  <div class="views-field views-field-field-date">        <div class="field-content"></div>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/blog/public-policy/2014/02/internet-community-collaboration-forges-strong-links-global-%E2%80%98chain-trust%E2%80%99">Internet Community Collaboration Forges Strong Links in Global ‘Chain of Trust’</a></span>  </div>  
+  <div class="views-field views-field-field-date">        <div class="field-content"></div>  </div>  </div>
+  <div class="views-row views-row-5 views-row-odd views-row-last">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/blog/2012/11/youth-igf-2012-contending-perspectives">The youth at the IGF 2012 - contending perspectives</a></span>  </div>  
+  <div class="views-field views-field-field-date">        <div class="field-content"></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+</div>
+<div id="block-locale-language--2" class="block block-locale simple-white">
+
+    
+  <div class="content">
+    <ul class="language-switcher-locale-url"><li class="ar first"><span class="language-link locale-untranslated" xml:lang="ar" lang="ar">العربية</span></li>
+<li class="zh-hans"><span class="language-link locale-untranslated" xml:lang="zh-hans" lang="zh-hans">简体中文</span></li>
+<li class="en active"><a href="/policybriefs/internetgovernance" class="language-link active" xml:lang="en" lang="en">English</a></li>
+<li class="fr"><span class="language-link locale-untranslated" xml:lang="fr" lang="fr">Français</span></li>
+<li class="ru"><span class="language-link locale-untranslated" xml:lang="ru" lang="ru">Русский</span></li>
+<li class="es"><span class="language-link locale-untranslated" xml:lang="es" lang="es">Español</span></li>
+<li class="ur last"><span class="language-link locale-untranslated" xml:lang="ur" lang="ur">اردو</span></li>
+</ul>  </div>
+</div>
+<div id="block-block-97" class="block block-block reset">
+
+    
+  <div class="content">
+    <div class="rtecenter" style="border: 1px solid #d3d3d3; background-color: #ffffff; padding: 0px;">
+<div><img style="width: 80px; height: 15px; margin-top: 10px; margin-bottom: 10px;" src="/sites/default/files/Follow%20Us.jpg" alt="Follow Us"></div>
+<div class="follow-inner"><a title="Join our many followers on Facebook" href="http://www.facebook.com/InternetSociety"><img style="width: 30px; height: 30px;" src="/sites/default/files/Buttons-Facebook.png" alt="Follow us on Facebook"></a>&nbsp; &nbsp;&nbsp;<a href="http://twitter.com/internetsociety"><img style="width: 30px; height: 30px;" src="/sites/default/files/Buttons-Twitter2.png" alt="Follow us on Twitter"></a>&nbsp; &nbsp;&nbsp;<a href="http://www.linkedin.com/company/internet-society"><img style="width: 30px; height: 30px;" src="/sites/default/files/Buttons-Linkedin.png" alt="Follow us on Linkedin"></a>&nbsp; &nbsp;&nbsp;<a href="http://www.youtube.com/InternetSocietyVideo"><img style="width: 30px; height: 30px;" src="/sites/default/files/Button-YouTube.png" alt="Go to our Youtube channel"></a>&nbsp;&nbsp; &nbsp;<a href="http://www.scoop.it/u/internet-society"><img style="width: 30px; height: 30px;" src="/sites/default/files/Button-Scoopit-InternetSociety-colors.png" alt="Follow our Scoopit feed"></a></div>
+<div>&nbsp;</div>
+</div>
+  </div>
+</div>
+  </div>
+</aside> <!-- end aside-right -->					
+</div><div class="clear"></div></div><!-- end container -->
+<footer id="footer">  <div class="region region-footer">
+    <div id="block-menu-menu-footer" class="block block-menu">
+
+    
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/who-we-are/contact-us" title="Contact Us">Contact Us</a></li>
+<li class="leaf"><a href="/internet-society-statement-privacy" title="Privacy">Privacy</a></li>
+<li class="leaf"><a href="/internet-society-comment-policy">Comment Policy</a></li>
+<li class="leaf"><a href="/styleguide" title="Identity Guidelines">Identity Guidelines</a></li>
+<li class="leaf"><a href="/rss" title="RSS">RSS</a></li>
+<li class="leaf"><a href="/site-map">Sitemap</a></li>
+<li class="leaf"><a href="/publications/ietf-journal/glossary" title="Glossary">Glossary</a></li>
+<li class="last leaf"><a href="/get-involved/spread-word/sharing-our-content" title="Share Our Content">Share Our Content</a></li>
+</ul>  </div>
+</div>
+<div id="block-block-1" class="block block-block reset">
+
+    
+  <div class="content">
+    <div class="content">
+<div><a href="/get-involved/spread-word/sharing-our-content" target="_blank">Copyright © 2015 Internet Society</a> | <a href="mailto:isoc@isoc.org">isoc@isoc.org</a></div>
+<div>&nbsp;</div>
+<div>1775 Wiehle Avenue, Suite 201, Reston, VA 20190-5108 U.S.A. +1-703-439-2120</div>
+<div>Galerie Jean-Malbuisson 15, CH-1204 Geneva, Switzerland +41 22 807 1444</div>
+</div>
+<p>&nbsp;</p>
+  </div>
+</div>
+  </div>
+</footer> <!-- end footer -->
+  
+</body>
+
+</html>
